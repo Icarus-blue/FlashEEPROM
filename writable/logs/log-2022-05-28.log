@@ -1,0 +1,34 @@
+CRITICAL - 2022-05-28 11:40:13 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-28 12:03:34 --> Class '\App\Scripts\Acura_CL_93c56' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Acura/A...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(195): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(150): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 12:10:37 --> Class '\App\Scripts\C3' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '111111119898989...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(195): App\Scripts\ScriptList::getScriptByPathInformation(Array, '111111119898989...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(150): App\Controllers\Script->getScript(Array, '111111119898989...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-28 17:45:42 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

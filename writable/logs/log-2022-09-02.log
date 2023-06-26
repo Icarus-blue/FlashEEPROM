@@ -1,0 +1,15 @@
+ERROR - 2022-09-02 15:51:35 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-09-02 15:51:35 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/flasheep/codeigniter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/flasheep/codeigniter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/flasheep/codeigniter/system/Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/flasheep/codeigniter/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 /home/flasheep/codeigniter/app/Models/IpModel.php(20): CodeIgniter\BaseModel->first()
+#5 /home/flasheep/codeigniter/app/Controllers/User.php(258): App\Models\IpModel->registerIp('52.204.27.85')
+#6 /home/flasheep/codeigniter/app/Controllers/User.php(175): App\Controllers\User->getIp()
+#7 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#8 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#9 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}

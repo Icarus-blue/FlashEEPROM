@@ -1,0 +1,72 @@
+CRITICAL - 2023-04-03 02:40:35 --> finfo_file(/home/flasheep/codeigniter/writable/uploads/81.jpg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'finfo_file(/hom...', '/home/flasheep/...', 109, Array)
+#1 /home/flasheep/codeigniter/system/Files/File.php(109): finfo_file(Resource id #147, '/home/flasheep/...')
+#2 /home/flasheep/codeigniter/app/Controllers/Library.php(67): CodeIgniter\Files\File->getMimeType()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Library->image(81)
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Library))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-04-03 12:30:00 --> Class '\App\Scripts\Hyundai_Genesis_2011_24c16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-04-03 12:30:02 --> Class '\App\Scripts\Hyundai_Genesis_2011_24c16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-04-03 12:30:04 --> Class '\App\Scripts\Hyundai_Genesis_2011_24c16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-04-03 12:30:05 --> Class '\App\Scripts\Hyundai_Genesis_2011_24c16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-04-03 12:30:05 --> Class '\App\Scripts\Hyundai_Genesis_2011_24c16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-04-03 12:30:07 --> Class '\App\Scripts\Hyundai_Genesis_2011_24c16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-04-03 16:19:30 --> Class '\App\Scripts\Honda_CB190_2017_24c04' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Motocic...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

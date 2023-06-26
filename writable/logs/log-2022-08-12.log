@@ -1,0 +1,43 @@
+CRITICAL - 2022-08-12 15:36:06 --> Argument 1 passed to App\Controllers\Script::getPathInformation() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Script.php on line 238
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(238): App\Controllers\Script->getPathInformation(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-12 18:48:06 --> Class '\App\Scripts\Kia_Ceed_2014_24C16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Kia/Cee...', '00000000000039E...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00000000000039E...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00000000000039E...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-12 18:48:08 --> Class '\App\Scripts\Kia_Ceed_2014_24C16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Kia/Cee...', '00000000000039E...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00000000000039E...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00000000000039E...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-12 18:48:08 --> Class '\App\Scripts\Kia_Ceed_2014_24C16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Kia/Cee...', '00000000000039E...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00000000000039E...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00000000000039E...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-12 18:48:08 --> Class '\App\Scripts\Kia_Ceed_2014_24C16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Kia/Cee...', '00000000000039E...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00000000000039E...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00000000000039E...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

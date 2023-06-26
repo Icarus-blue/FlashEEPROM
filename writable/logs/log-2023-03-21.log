@@ -1,0 +1,195 @@
+CRITICAL - 2023-03-21 08:03:16 --> finfo_file(/home/flasheep/codeigniter/writable/uploads/74.jpg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'finfo_file(/hom...', '/home/flasheep/...', 109, Array)
+#1 /home/flasheep/codeigniter/system/Files/File.php(109): finfo_file(Resource id #147, '/home/flasheep/...')
+#2 /home/flasheep/codeigniter/app/Controllers/Library.php(67): CodeIgniter\Files\File->getMimeType()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Library->image(74)
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Library))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 10:41:06 --> Class '\App\Scripts\Acura_CL_93c56' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Acura/A...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 10:41:10 --> Class '\App\Scripts\Acura_CL_93c56' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Acura/A...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 10:58:15 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 10:58:18 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 10:58:18 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 10:58:23 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 10:58:25 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 10:59:14 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 10:59:16 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 11:03:02 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 11:03:09 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 11:03:12 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 11:05:36 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 11:05:40 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 11:05:40 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 11:05:41 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 11:05:52 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 11:06:05 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-03-21 11:06:09 --> Class '\App\Scripts\Nissan_murano_kanzey_millas_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFC0098013002...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFC0098013002...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFC0098013002...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-03-21 21:32:02 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY log_type ASC' at line 1
+CRITICAL - 2023-03-21 21:32:02 --> Call to a member function getResult() on bool
+#0 /home/flasheep/codeigniter/app/Controllers/Edx_ajax.php(416): App\Models\FeedsSystemModel->gets_notifications(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Edx_ajax->show_notifications()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Edx_ajax))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-21 21:32:02 --> Invalid argument supplied for foreach()
+#0 /home/flasheep/codeigniter/app/Controllers/Edx_ajax.php(566): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/flasheep/...', 566, Array)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Edx_ajax->update_notify()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Edx_ajax))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

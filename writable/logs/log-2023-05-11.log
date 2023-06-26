@@ -1,0 +1,66 @@
+CRITICAL - 2023-05-11 05:52:25 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-05-11 05:52:27 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-05-11 05:52:28 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-05-11 05:52:29 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-05-11 05:52:36 --> Class '\App\Scripts\Jemr_dgm' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Audi/A4...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-05-11 05:53:15 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-05-11 05:53:16 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-05-11 05:53:21 --> Class '\App\Scripts\Jemr_dgm' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Audi/A4...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

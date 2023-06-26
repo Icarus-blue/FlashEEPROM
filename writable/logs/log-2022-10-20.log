@@ -1,0 +1,177 @@
+CRITICAL - 2022-10-20 17:52:18 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-10-20 17:52:19 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-10-20 17:52:20 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-10-20 17:52:22 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-10-20 17:54:00 --> Class '\App\Scripts\Ford_Explorer_2013' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Ford/Ex...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-20 17:54:01 --> Class '\App\Scripts\Ford_Explorer_2013' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Ford/Ex...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-20 17:54:01 --> Class '\App\Scripts\Ford_Explorer_2013' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Ford/Ex...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-20 17:54:03 --> Class '\App\Scripts\Ford_Explorer_2013' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Ford/Ex...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-20 17:54:04 --> Class '\App\Scripts\Ford_Explorer_2013' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Ford/Ex...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-20 17:55:37 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:41 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:42 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:43 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:44 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:48 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:48 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:48 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:48 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:48 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:49 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:50 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:50 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:50 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:55:50 --> Cannot use empty array elements in arrays
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-20 17:56:46 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-10-20 17:56:48 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-10-20 17:58:25 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Jeep/Jeep_Cherokee_Limited_1998_99_93c56.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 13, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jeep_Cherokee_Limited_1998_99_93c56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-10-20 17:58:26 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Jeep/Jeep_Cherokee_Limited_1998_99_93c56.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 13, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jeep_Cherokee_Limited_1998_99_93c56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-10-20 17:58:27 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Jeep/Jeep_Cherokee_Limited_1998_99_93c56.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 13, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jeep_Cherokee_Limited_1998_99_93c56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-10-20 17:58:28 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Jeep/Jeep_Cherokee_Limited_1998_99_93c56.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 13, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jeep_Cherokee_Limited_1998_99_93c56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-10-20 20:27:04 --> Argument 1 passed to App\Controllers\Script::getPathInformation() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Script.php on line 232
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(232): App\Controllers\Script->getPathInformation(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

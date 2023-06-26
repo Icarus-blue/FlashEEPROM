@@ -1,0 +1,65 @@
+CRITICAL - 2022-05-01 03:45:16 --> Argument 1 passed to App\Controllers\Script::getPathInformation() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Script.php on line 76
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(76): App\Controllers\Script->getPathInformation(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-01 20:22:03 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Mercedes/Vito/Mercedes_Vito_2402.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 13, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Mercedes_Vito_2402->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-01 22:44:11 --> Table 'flasheep_hexeditor.question' doesn't exist
+CRITICAL - 2022-05-01 22:44:11 --> Call to a member function getResult() on bool
+#0 /home/flasheep/codeigniter/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 /home/flasheep/codeigniter/app/Models/QuestionModel.php(35): CodeIgniter\BaseModel->findAll()
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(35): App\Models\QuestionModel->getQuestions()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->index()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-05-01 22:45:01 --> Table 'flasheep_hexeditor.question' doesn't exist
+CRITICAL - 2022-05-01 22:45:01 --> Call to a member function getResult() on bool
+#0 /home/flasheep/codeigniter/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 /home/flasheep/codeigniter/app/Models/QuestionModel.php(35): CodeIgniter\BaseModel->findAll()
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(35): App\Models\QuestionModel->getQuestions()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->index()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-05-01 22:46:20 --> Table 'flasheep_hexeditor.question' doesn't exist
+CRITICAL - 2022-05-01 22:46:20 --> Call to a member function getResult() on bool
+#0 /home/flasheep/codeigniter/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 /home/flasheep/codeigniter/app/Models/QuestionModel.php(35): CodeIgniter\BaseModel->findAll()
+#2 /home/flasheep/codeigniter/app/Controllers/Question.php(23): App\Models\QuestionModel->getQuestions()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Question->index()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Question))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-01 22:56:09 --> Invalid file: questions.php
+#0 /home/flasheep/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('questions.php')
+#1 /home/flasheep/codeigniter/system/Common.php(1097): CodeIgniter\View\View->render('questions', Array, true)
+#2 /home/flasheep/codeigniter/app/Controllers/BaseController.php(103): view('questions', Array)
+#3 /home/flasheep/codeigniter/app/Controllers/Question.php(23): App\Controllers\BaseController->renderDefaultLayout('questions', Array)
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Question->index()
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Question))
+#6 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-01 22:56:43 --> Invalid file: questions.php
+#0 /home/flasheep/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('questions.php')
+#1 /home/flasheep/codeigniter/system/Common.php(1097): CodeIgniter\View\View->render('questions', Array, true)
+#2 /home/flasheep/codeigniter/app/Controllers/BaseController.php(103): view('questions', Array)
+#3 /home/flasheep/codeigniter/app/Controllers/Question.php(23): App\Controllers\BaseController->renderDefaultLayout('questions', Array)
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Question->index()
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Question))
+#6 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

@@ -1,0 +1,213 @@
+CRITICAL - 2022-04-28 13:35:32 --> Class '\App\Scripts\Kia_Picanto_2018_Fujitsu_MB91F06X' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Pic...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:35:33 --> Class '\App\Scripts\Kia_Picanto_2018_Fujitsu_MB91F06X' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Pic...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:35:33 --> Class '\App\Scripts\Kia_Picanto_2018_Fujitsu_MB91F06X' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Pic...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:35:33 --> Class '\App\Scripts\Kia_Picanto_2018_Fujitsu_MB91F06X' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Pic...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:35:34 --> Class '\App\Scripts\Kia_Picanto_2018_Fujitsu_MB91F06X' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Pic...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:35:49 --> Class '\App\Scripts\Kia_Picanto_2018_Fujitsu_MB91F06X' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Pic...', 'FFFFFFFF55AA55A...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFF55AA55A...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFF55AA55A...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:35:51 --> Class '\App\Scripts\Kia_Picanto_2018_Fujitsu_MB91F06X' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Pic...', 'FFFFFFFF55AA55A...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFF55AA55A...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFF55AA55A...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:35:56 --> Class '\App\Scripts\Kia_Picanto_2018_Fujitsu_MB91F06X' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Pic...', 'FFFFFFFF55AA55A...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFF55AA55A...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFF55AA55A...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:35:57 --> Class '\App\Scripts\Kia_Picanto_2018_Fujitsu_MB91F06X' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Pic...', 'FFFFFFFF55AA55A...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFF55AA55A...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFF55AA55A...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 13:35:57 --> Class '\App\Scripts\Kia_Picanto_2018_Fujitsu_MB91F06X' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Pic...', 'FFFFFFFF55AA55A...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFF55AA55A...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFF55AA55A...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 14:12:58 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(1645)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 14:13:02 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(1645)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 14:13:06 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(1645)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 14:13:07 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(1645)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 14:13:08 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(1645)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 14:13:09 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(1645)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-28 20:40:55 --> Argument 1 passed to App\Scripts\Nissan_NP300_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/NP300/Nissan_NP300_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/NP300/Nissan_NP300_checksum_9s12h256.php(35): App\Scripts\Nissan_NP300_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Nissan_NP300_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-28 21:39:17 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-28 21:39:19 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-28 21:39:21 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-28 22:11:27 --> Class '\App\Scripts\Kia_Rio_v2_2012_13_24c16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Rio...', '000000000000000...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, '000000000000000...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, '000000000000000...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-28 22:28:32 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-28 22:28:34 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-28 22:28:36 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-28 22:28:36 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-28 22:28:41 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

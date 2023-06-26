@@ -1,0 +1,2 @@
+ERROR - 2022-09-16 18:47:26 --> Incorrect string value: '\xC3l2022...' for column 'filename' at row 1
+ERROR - 2022-09-16 18:58:04 --> Incorrect string value: '\xC3l2022...' for column 'filename' at row 1

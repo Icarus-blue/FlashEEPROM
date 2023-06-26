@@ -1,0 +1,150 @@
+CRITICAL - 2023-02-10 00:57:47 --> finfo_file(/home/flasheep/codeigniter/writable/uploads/74.jpg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'finfo_file(/hom...', '/home/flasheep/...', 109, Array)
+#1 /home/flasheep/codeigniter/system/Files/File.php(109): finfo_file(Resource id #148, '/home/flasheep/...')
+#2 /home/flasheep/codeigniter/app/Controllers/Library.php(67): CodeIgniter\Files\File->getMimeType()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Library->image(74)
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Library))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 00:57:54 --> finfo_file(/home/flasheep/codeigniter/writable/uploads/75.jpg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'finfo_file(/hom...', '/home/flasheep/...', 109, Array)
+#1 /home/flasheep/codeigniter/system/Files/File.php(109): finfo_file(Resource id #148, '/home/flasheep/...')
+#2 /home/flasheep/codeigniter/app/Controllers/Library.php(67): CodeIgniter\Files\File->getMimeType()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Library->image(75)
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Library))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 09:44:04 --> Class '\App\Scripts\Hyundai_Genesis_2011_24c16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', '80FF008080FF008...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, '80FF008080FF008...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, '80FF008080FF008...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 13:45:06 --> Class '\App\Scripts\Opel_monterey_93C46' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Opel/va...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 14:14:16 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-10 14:14:18 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-10 14:14:20 --> Argument 1 passed to App\Scripts\Chevrolet_Aveo_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Aveo/Chevrolet_Aveo_checksum_24c08.php(35): App\Scripts\Chevrolet_Aveo_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Chevrolet_Aveo_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-10 14:20:16 --> Class '\App\Scripts\Chevrolet_Dimax_V3_2020_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Chevrol...', 'E88E015D4C27263...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'E88E015D4C27263...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'E88E015D4C27263...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 14:20:23 --> Class '\App\Scripts\Chevrolet_Dimax_V3_2020_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Chevrol...', 'E88E015D4C27263...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'E88E015D4C27263...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'E88E015D4C27263...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 14:20:25 --> Class '\App\Scripts\Chevrolet_Dimax_V3_2020_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Chevrol...', 'E88E015D4C27263...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'E88E015D4C27263...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'E88E015D4C27263...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 14:20:26 --> Class '\App\Scripts\Chevrolet_Dimax_V3_2020_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Chevrol...', 'E88E015D4C27263...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'E88E015D4C27263...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'E88E015D4C27263...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 14:20:26 --> Class '\App\Scripts\Chevrolet_Dimax_V3_2020_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Chevrol...', 'E88E015D4C27263...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'E88E015D4C27263...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'E88E015D4C27263...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 14:20:26 --> Class '\App\Scripts\Chevrolet_Dimax_V3_2020_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Chevrol...', 'E88E015D4C27263...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'E88E015D4C27263...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'E88E015D4C27263...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 14:20:26 --> Class '\App\Scripts\Chevrolet_Dimax_V3_2020_93c66' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Chevrol...', 'E88E015D4C27263...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'E88E015D4C27263...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'E88E015D4C27263...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 14:32:58 --> finfo_file(/home/flasheep/codeigniter/writable/uploads/79.jpg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'finfo_file(/hom...', '/home/flasheep/...', 109, Array)
+#1 /home/flasheep/codeigniter/system/Files/File.php(109): finfo_file(Resource id #148, '/home/flasheep/...')
+#2 /home/flasheep/codeigniter/app/Controllers/Library.php(67): CodeIgniter\Files\File->getMimeType()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Library->image(79)
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Library))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 14:33:05 --> finfo_file(/home/flasheep/codeigniter/writable/uploads/79.jpg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'finfo_file(/hom...', '/home/flasheep/...', 109, Array)
+#1 /home/flasheep/codeigniter/system/Files/File.php(109): finfo_file(Resource id #148, '/home/flasheep/...')
+#2 /home/flasheep/codeigniter/app/Controllers/Library.php(67): CodeIgniter\Files\File->getMimeType()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Library->image(79)
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Library))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-10 14:33:13 --> finfo_file(/home/flasheep/codeigniter/writable/uploads/77.jpeg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'finfo_file(/hom...', '/home/flasheep/...', 109, Array)
+#1 /home/flasheep/codeigniter/system/Files/File.php(109): finfo_file(Resource id #148, '/home/flasheep/...')
+#2 /home/flasheep/codeigniter/app/Controllers/Library.php(67): CodeIgniter\Files\File->getMimeType()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Library->image(77)
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Library))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

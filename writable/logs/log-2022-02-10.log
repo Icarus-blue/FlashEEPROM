@@ -1,0 +1,23 @@
+CRITICAL - 2022-02-10 12:49:45 --> Class '\App\Scripts\Suzuki_swift_93c46' not found
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Suzuki/...', 'FFFFFFFFFFFFFFF...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 12:50:00 --> Class '\App\Scripts\Suzuki_swift_93c46' not found
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Suzuki/...', 'FFFFFFFFFFFFFFF...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-10 13:09:10 --> Cannot add or update a child row: a foreign key constraint fails (`dgmtools_hexeditor`.`activity`, CONSTRAINT `activity_ibfk_3` FOREIGN KEY (`shareid`) REFERENCES `share` (`shareid`) ON DELETE CASCADE)
+CRITICAL - 2022-02-10 13:21:35 --> syntax error, unexpected ','
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Acura/A...', 'FFFFFFFFFFFFFFF...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-10 16:40:32 --> Cannot add or update a child row: a foreign key constraint fails (`dgmtools_hexeditor`.`activity`, CONSTRAINT `activity_ibfk_3` FOREIGN KEY (`shareid`) REFERENCES `share` (`shareid`) ON DELETE CASCADE)

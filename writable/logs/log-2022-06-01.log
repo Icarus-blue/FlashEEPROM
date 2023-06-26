@@ -1,0 +1,7 @@
+CRITICAL - 2022-06-01 00:02:02 --> Call to undefined function b()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(170): App\Scripts\Foton_aumark_2011_24c02_crc->calculate(30006)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

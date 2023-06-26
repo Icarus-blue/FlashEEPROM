@@ -1,0 +1,71 @@
+CRITICAL - 2022-03-03 10:23:22 --> Argument 1 passed to App\Scripts\Nissan_Pathfinder_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php(35): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-03 10:23:43 --> Argument 1 passed to App\Scripts\Nissan_Pathfinder_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php(35): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-03 10:23:44 --> Argument 1 passed to App\Scripts\Nissan_Pathfinder_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php(35): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-03 10:23:48 --> Argument 1 passed to App\Scripts\Nissan_Pathfinder_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php(35): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-03 10:24:00 --> Argument 1 passed to App\Scripts\Nissan_Pathfinder_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php(35): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-03 10:24:00 --> Argument 1 passed to App\Scripts\Nissan_Pathfinder_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php(35): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-03 10:24:00 --> Argument 1 passed to App\Scripts\Nissan_Pathfinder_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php(35): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-03 10:24:15 --> Argument 1 passed to App\Scripts\Nissan_Pathfinder_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php(35): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-03 16:27:47 --> Argument 1 passed to App\Scripts\Script::getScript() must be of the type string, null given, called in /home2/dgmtools/codeigniter/app/Controllers/Script.php on line 53
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript(NULL, NULL)
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

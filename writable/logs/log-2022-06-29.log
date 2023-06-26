@@ -1,0 +1,12 @@
+CRITICAL - 2022-06-29 07:48:03 --> Argument 1 passed to App\Controllers\Script::getPathInformation() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Script.php on line 147
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(147): App\Controllers\Script->getPathInformation(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-29 10:31:53 --> Duplicate entry 'ferwire19@gmail.com' for key 'email'
+ERROR - 2022-06-29 10:33:18 --> Duplicate entry 'ferwire19@gmail.com' for key 'email'
+ERROR - 2022-06-29 10:37:10 --> Duplicate entry 'ferwire19@gmail.com' for key 'email'
+ERROR - 2022-06-29 10:39:56 --> Duplicate entry 'ferwire19@gmail.com' for key 'email'
+ERROR - 2022-06-29 13:25:49 --> Duplicate entry 'ferwire19@gmail.com' for key 'email'

@@ -1,0 +1,107 @@
+CRITICAL - 2022-04-01 00:03:35 --> Argument 1 passed to App\Scripts\Nissan_Qashqai_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php(35): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-01 00:03:39 --> Argument 1 passed to App\Scripts\Nissan_Qashqai_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php(35): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-01 00:03:39 --> Argument 1 passed to App\Scripts\Nissan_Qashqai_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php(35): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-01 00:03:45 --> Argument 1 passed to App\Scripts\Nissan_Qashqai_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php(35): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-01 00:03:46 --> Argument 1 passed to App\Scripts\Nissan_Qashqai_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php(35): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-01 00:03:46 --> Argument 1 passed to App\Scripts\Nissan_Qashqai_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php(35): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-01 12:05:58 --> [string ""]:10: attempt to concatenate global 'k2' (a nil value)
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandboxFunction->call()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('km1 = read (0x0...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(494): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 12:06:21 --> [string ""]:10: attempt to concatenate global 'k2' (a nil value)
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandboxFunction->call()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('km1 = read (0x0...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(494): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 12:06:49 --> [string ""]:10: attempt to concatenate global 'k2' (a nil value)
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandboxFunction->call()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('km1 = read(0x00...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(494): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 12:07:20 --> [string ""]:10: attempt to concatenate global 'k3' (a nil value)
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandboxFunction->call()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('km1 = read(0x00...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(494): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 12:21:47 --> [string ""]:9: attempt to index global 'km2' (a number value)
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandboxFunction->call()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('km1 = read(0x26...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(494): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-01 21:30:14 --> Argument 1 passed to App\Controllers\Script::getPathInformation() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Script.php on line 76
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(76): App\Controllers\Script->getPathInformation(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-01 21:30:17 --> Argument 1 passed to App\Controllers\Script::getPathInformation() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Script.php on line 76
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(76): App\Controllers\Script->getPathInformation(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

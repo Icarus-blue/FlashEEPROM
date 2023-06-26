@@ -1,0 +1,60 @@
+<?php
+
+namespace App\Scripts;
+
+class Honda_Civic_2006_08_93c66 extends Script
+{
+    public function getResult()
+    {
+        $result = '';
+        
+        $hex = $this->getByteForPosition('60', 4) . $this->getByteForPosition('60',3)
+            . $this->getByteForPosition('60', 2) ;
+        
+        for ($i = 0; $i < strlen($hex); $i++) {
+            $number = 15 - hexdec(substr($hex, $i, 1));
+            $result .= substr($number, -1);
+        }
+        
+        return [
+            'result' => $result,
+            'image' => 'assets/Honda.png',
+            'texts' => [
+                'Civic 2006-08',
+                'Eeprom 93C66',
+                'Flasheeprom'
+            ],
+            'inputlength' => 6,
+            'fileprefix' => 'flasheeprom'
+        ];
+    }
+    
+    public function calculate(int $value)
+    {
+        $result = '';
+        $text = substr('000000' . $value, -6);
+        
+        for ($i = 0; $i < strlen($text); $i++) {
+            $result .= dechex(15 - substr($text, $i, 1));
+        }
+        
+        $a = substr($result, 0, 2);
+        $b = substr($result, 2, 2);
+        $c = substr($result, 4, 2);
+      //  $d = substr($result, 6, 2);
+        
+        return [
+            ['row' => '60', 'cell' => 4, 'value' => $a],
+            ['row' => '60', 'cell' => 3, 'value' => $b],
+            ['row' => '60', 'cell' => 2, 'value' => $c],
+
+            ['row' => '60', 'cell' => 8, 'value' => $a],
+            ['row' => '60', 'cell' => 7, 'value' => $b],
+            ['row' => '60', 'cell' => 6, 'value' => $c],
+
+            ['row' => '60', 'cell' => 12, 'value' => $a],
+            ['row' => '60', 'cell' => 11, 'value' => $b],
+            ['row' => '60', 'cell' => 10, 'value' => $c]
+        ];
+    }
+}

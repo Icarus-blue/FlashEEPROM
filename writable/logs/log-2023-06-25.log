@@ -1,0 +1,77 @@
+CRITICAL - 2023-06-25 00:02:44 --> Invalid file: secretkey_register.php
+#0 E:\xampp\htdocs\codeigniter1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('secretkey_regis...')
+#1 E:\xampp\htdocs\codeigniter1\system\Common.php(1097): CodeIgniter\View\View->render('secretkey_regis...', Array, true)
+#2 E:\xampp\htdocs\codeigniter1\app\Controllers\BaseController.php(107): view('secretkey_regis...', Array)
+#3 E:\xampp\htdocs\codeigniter1\app\Controllers\Admin.php(159): App\Controllers\BaseController->renderDefaultLayout('secretkey_regis...', Array)
+#4 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(824): App\Controllers\Admin->status('41')
+#5 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\public_html\index.php(39): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-06-25 00:06:16 --> Invalid file: secretkey_register.php
+#0 E:\xampp\htdocs\codeigniter1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('secretkey_regis...')
+#1 E:\xampp\htdocs\codeigniter1\system\Common.php(1097): CodeIgniter\View\View->render('secretkey_regis...', Array, true)
+#2 E:\xampp\htdocs\codeigniter1\app\Controllers\BaseController.php(107): view('secretkey_regis...', Array)
+#3 E:\xampp\htdocs\codeigniter1\app\Controllers\Admin.php(185): App\Controllers\BaseController->renderDefaultLayout('secretkey_regis...', Array)
+#4 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(824): App\Controllers\Admin->delete_secretkey('41')
+#5 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\public_html\index.php(39): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-06-25 00:08:17 --> Invalid file: secretkey_register.php
+#0 E:\xampp\htdocs\codeigniter1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('secretkey_regis...')
+#1 E:\xampp\htdocs\codeigniter1\system\Common.php(1097): CodeIgniter\View\View->render('secretkey_regis...', Array, true)
+#2 E:\xampp\htdocs\codeigniter1\app\Controllers\BaseController.php(107): view('secretkey_regis...', Array)
+#3 E:\xampp\htdocs\codeigniter1\app\Controllers\Admin.php(159): App\Controllers\BaseController->renderDefaultLayout('secretkey_regis...', Array)
+#4 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(824): App\Controllers\Admin->status('42')
+#5 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#6 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\public_html\index.php(39): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2023-06-25 00:13:51 --> Invalid file: smtregister.php
+#0 E:\xampp\htdocs\codeigniter1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('smtregister.php')
+#1 E:\xampp\htdocs\codeigniter1\system\Common.php(1097): CodeIgniter\View\View->render('smtregister', Array, true)
+#2 E:\xampp\htdocs\codeigniter1\app\Controllers\BaseController.php(107): view('smtregister', Array)
+#3 E:\xampp\htdocs\codeigniter1\app\Controllers\User.php(485): App\Controllers\BaseController->renderDefaultLayout('smtregister', Array)
+#4 E:\xampp\htdocs\codeigniter1\app\Controllers\User.php(478): App\Controllers\User->smtgeneratorForm(false)
+#5 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(824): App\Controllers\User->smtgenerator()
+#6 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#7 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\public_html\index.php(39): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-06-25 00:15:38 --> Cannot redeclare App\Controllers\User::addCount()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-06-25 00:16:46 --> Class "\App\Scripts\Acura_CL_93c56" not found
+#0 E:\xampp\htdocs\codeigniter1\app\Scripts\ScriptList.php(196): App\Scripts\Script::getScript('scripts\\Acura\\A...', 'FFFFFFFFFFFFFFF...')
+#1 E:\xampp\htdocs\codeigniter1\app\Controllers\Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 E:\xampp\htdocs\codeigniter1\app\Controllers\Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\public_html\index.php(39): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-25 00:24:43 --> filesize(): stat failed for E:\xampp\htdocs\codeigniter1\writable\developer/template.smt
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'E:\\xampp\\htdocs...', 157)
+#1 E:\xampp\htdocs\codeigniter1\app\Controllers\Developer.php(157): filesize('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(824): App\Controllers\Developer->newFile_new()
+#3 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#4 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\public_html\index.php(39): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-06-25 00:24:47 --> filesize(): stat failed for E:\xampp\htdocs\codeigniter1\writable\developer/template.smt
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'E:\\xampp\\htdocs...', 157)
+#1 E:\xampp\htdocs\codeigniter1\app\Controllers\Developer.php(157): filesize('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(824): App\Controllers\Developer->newFile_new()
+#3 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#4 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\public_html\index.php(39): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-06-25 00:24:51 --> filesize(): stat failed for E:\xampp\htdocs\codeigniter1\writable\developer/template.smt
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'E:\\xampp\\htdocs...', 157)
+#1 E:\xampp\htdocs\codeigniter1\app\Controllers\Developer.php(157): filesize('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(824): App\Controllers\Developer->newFile_new()
+#3 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#4 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 E:\xampp\htdocs\public_html\index.php(39): CodeIgniter\CodeIgniter->run()
+#6 {main}

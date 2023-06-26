@@ -1,0 +1,52 @@
+CRITICAL - 2022-03-14 19:15:56 --> Argument 1 passed to App\Scripts\Script::getScript() must be of the type string, null given, called in /home2/dgmtools/codeigniter/app/Controllers/Script.php on line 53
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript(NULL, NULL)
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 21:43:49 --> Class 'LuaSandbox' not found
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(100): App\Scripts\LuaScript->loadSandbox()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('return read(0x2...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(512): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 21:44:14 --> Class 'LuaSandbox' not found
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(100): App\Scripts\LuaScript->loadSandbox()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('return 100')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(512): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 21:45:47 --> Class 'LuaSandbox' not found
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(100): App\Scripts\LuaScript->loadSandbox()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('return 100')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(512): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 21:48:23 --> Class 'LuaSandbox' not found
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(100): App\Scripts\LuaScript->loadSandbox()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('return 100')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(512): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-14 21:48:34 --> Class 'LuaSandbox' not found
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(100): App\Scripts\LuaScript->loadSandbox()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('return 100')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(512): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

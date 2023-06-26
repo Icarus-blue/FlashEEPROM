@@ -1,0 +1,111 @@
+ERROR - 2022-05-29 00:09:52 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-05-29 00:09:52 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/flasheep/codeigniter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/flasheep/codeigniter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/flasheep/codeigniter/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/flasheep/codeigniter/system/BaseModel.php(523): CodeIgniter\Model->doFind(true, 233)
+#4 /home/flasheep/codeigniter/app/Models/UserModel.php(68): CodeIgniter\BaseModel->find(233)
+#5 /home/flasheep/codeigniter/app/Controllers/BaseController.php(60): App\Models\UserModel->getUserById(233)
+#6 /home/flasheep/codeigniter/app/Controllers/Script.php(14): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home/flasheep/codeigniter/system/CodeIgniter.php(802): App\Controllers\Script->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home/flasheep/codeigniter/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#9 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-05-29 11:41:16 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 11:41:17 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 11:41:17 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 11:41:18 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 11:41:18 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 11:41:22 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 11:41:23 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 11:50:45 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 11:50:45 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 11:51:03 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 11:51:04 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-29 11:51:04 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Motocicletas/Yamaha/Yamaha_XT_24c02.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 11, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(172): App\Scripts\Yamaha_XT_24c02->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

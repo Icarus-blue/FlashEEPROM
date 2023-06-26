@@ -1,0 +1,951 @@
+CRITICAL - 2022-05-06 03:12:47 --> Argument 1 passed to App\Controllers\Script::getPathInformation() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Script.php on line 128
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(128): App\Controllers\Script->getPathInformation(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-06 11:21:46 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:21:49 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:21:50 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:21:51 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:21:51 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:21:51 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:21:52 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:21:52 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:21:55 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:21:56 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:21:56 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:21:56 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:02 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:04 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:04 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:06 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:06 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:06 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:07 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:10 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:10 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:10 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:10 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:11 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:17 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:18 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:18 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:18 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:27 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:27 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:28 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:32 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:32 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:32 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:34 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:34 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:34 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:35 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:36 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:37 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:38 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:38 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:39 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:40 --> Argument 1 passed to App\Scripts\Nissan_Navara_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/Navara/Nissan_Navara_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/Navara/Nissan_Navara_checksum_9s12h256.php(35): App\Scripts\Nissan_Navara_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Nissan_Navara_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:41 --> Argument 1 passed to App\Scripts\Nissan_Navara_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/Navara/Nissan_Navara_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/Navara/Nissan_Navara_checksum_9s12h256.php(35): App\Scripts\Nissan_Navara_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Nissan_Navara_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:42 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:43 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:43 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:44 --> Argument 1 passed to App\Scripts\Nissan_Navara_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/Navara/Nissan_Navara_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/Navara/Nissan_Navara_checksum_9s12h256.php(35): App\Scripts\Nissan_Navara_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Nissan_Navara_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:45 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:45 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:46 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:46 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:47 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:47 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:48 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:49 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:22:49 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:28 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:29 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:29 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:29 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:30 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:30 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:30 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:30 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:30 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:31 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:31 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:31 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:31 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:31 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:32 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:32 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:32 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:32 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:32 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:32 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:33 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:33 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:33 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:33 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:33 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:34 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:23:34 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:24:00 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:25:16 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:25:16 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:25:17 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:25:18 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:25:18 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:25:19 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:25:19 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:00 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:01 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:01 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:02 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:02 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:02 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:03 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:03 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:04 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:04 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:04 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:04 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:04 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:05 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:05 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:05 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:05 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:05 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:26:06 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:28:53 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:28:53 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:28:53 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:34:59 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:35:00 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV2_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV2_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-06 11:35:02 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(153): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

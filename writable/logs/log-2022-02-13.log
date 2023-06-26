@@ -1,0 +1,11 @@
+ERROR - 2022-02-13 15:59:23 --> Cannot add or update a child row: a foreign key constraint fails (`dgmtools_hexeditor`.`activity`, CONSTRAINT `activity_ibfk_3` FOREIGN KEY (`shareid`) REFERENCES `share` (`shareid`) ON DELETE CASCADE)
+ERROR - 2022-02-13 16:00:56 --> Cannot add or update a child row: a foreign key constraint fails (`dgmtools_hexeditor`.`activity`, CONSTRAINT `activity_ibfk_3` FOREIGN KEY (`shareid`) REFERENCES `share` (`shareid`) ON DELETE CASCADE)
+ERROR - 2022-02-13 16:08:13 --> Cannot add or update a child row: a foreign key constraint fails (`dgmtools_hexeditor`.`activity`, CONSTRAINT `activity_ibfk_3` FOREIGN KEY (`shareid`) REFERENCES `share` (`shareid`) ON DELETE CASCADE)
+CRITICAL - 2022-02-13 16:10:45 --> Call to undefined method App\Models\ActivityModel::createForDownloadTest
+#0 /home2/dgmtools/codeigniter/app/Models/DownloadModel.php(53): CodeIgniter\Model->__call('createForDownlo...', Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Test.php(27): App\Models\DownloadModel->registerDownloadTest(Object(App\Entities\User), 'filename.bin')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Test->compile()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Test))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

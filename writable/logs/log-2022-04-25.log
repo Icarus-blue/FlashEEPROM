@@ -1,0 +1,42 @@
+CRITICAL - 2022-04-25 19:42:52 --> Class '\App\Scripts\Kia_Rio_v2_2012_13_24c16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Rio...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-25 19:42:53 --> Class '\App\Scripts\Kia_Rio_v2_2012_13_24c16' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Kia/Rio...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-25 22:38:56 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 22:38:56 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-25 22:38:58 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Audi/A4/Audi_A4_UKNSV1_93C56.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 10, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Audi_A4_UKNSV1_93C56->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

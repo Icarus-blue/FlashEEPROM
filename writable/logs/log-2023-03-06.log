@@ -1,0 +1,31 @@
+ERROR - 2023-03-06 12:02:56 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND feeds_userid IS Null' at line 1
+CRITICAL - 2023-03-06 12:02:56 --> Call to a member function getResult() on bool
+#0 /home/flasheep/codeigniter/app/Controllers/Edx_ajax.php(382): App\Models\FeedsSystemModel->feeds_likes('', '39')
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Edx_ajax->feeds_likes()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Edx_ajax))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-03-06 14:52:45 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY log_type ASC' at line 1
+CRITICAL - 2023-03-06 14:52:45 --> Call to a member function getResult() on bool
+#0 /home/flasheep/codeigniter/app/Controllers/Edx_ajax.php(416): App\Models\FeedsSystemModel->gets_notifications(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Edx_ajax->show_notifications()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Edx_ajax))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-06 14:52:45 --> Invalid argument supplied for foreach()
+#0 /home/flasheep/codeigniter/app/Controllers/Edx_ajax.php(566): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/flasheep/...', 566, Array)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Edx_ajax->update_notify()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Edx_ajax))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-06 14:54:28 --> Argument 1 passed to App\Scripts\Nissan_Pathfinder_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/pathfinder/Nissan_Pathfinder_checksum_9s12h256.php(35): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Nissan_Pathfinder_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

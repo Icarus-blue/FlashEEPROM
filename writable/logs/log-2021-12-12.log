@@ -1,0 +1,517 @@
+ERROR - 2021-12-12 07:00:11 --> Duplicate entry 'b8d6ec9191171070ec83f17b25260e8ea0c92696509a72661782bcd49d600fb6' for key 'hash'
+CRITICAL - 2021-12-12 07:00:11 --> Return value of App\Models\ScriptModel::getScript() must be an instance of App\Entities\Script or null, none returned
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(45): App\Models\ScriptModel->getScript('scripts/Asia/To...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-12 09:26:00 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 09:26:51 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 09:27:20 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 09:31:30 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 09:31:33 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 09:33:31 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 09:33:33 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 09:33:34 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 09:33:35 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 12:38:03 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 12:38:14 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 12:38:17 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 12:38:23 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 12:38:36 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 12:38:37 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 12:38:40 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 12:38:41 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 12:40:25 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 12:40:28 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 17:41:20 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 17:43:16 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '305558305258453...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 18:15:07 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/America/Jeep/Jeep_Cherokee_Limited_1998_99_93c56.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 13, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Jeep_Cherokee_Limited_1998_99_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 18:47:35 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/America/Jeep/Jeep_Cherokee_Limited_1998_99_93c56.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 13, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Jeep_Cherokee_Limited_1998_99_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:11:17 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:11:19 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Asia/Da...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:17:23 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Premancy/Mazda_Premacy_Var1_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Premacy_Var1_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:17:27 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Premancy/Mazda_Premacy_Var1_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Premacy_Var1_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:17:29 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Premancy/Mazda_Premacy_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Premacy_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:17:30 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Premancy/Mazda_Premacy_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Premacy_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:17:30 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Premancy/Mazda_Premacy_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Premacy_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:17:33 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Premancy/Mazda_Premacy_Var1_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Premacy_Var1_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:17:35 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Premancy/Mazda_Premacy_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Premacy_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:17:42 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Familia/Mazda_Familia_New_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Familia_New_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:17:48 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Familia/Mazda_Familia_New_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Familia_New_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:17:52 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Familia/Mazda_Familia_New_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Familia_New_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:18:35 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Familia/Mazda_Familia_New_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Familia_New_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:19:07 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Familia/Mazda_Familia_New_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Familia_New_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:19:14 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Premancy/Mazda_Premacy_Var1_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Premacy_Var1_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:19:17 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Premancy/Mazda_Premacy_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Premacy_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:19:18 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Premancy/Mazda_Premacy_Var1_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Premacy_Var1_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:19:27 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Familia/Mazda_Familia_New_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Familia_New_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:19:29 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Familia/Mazda_Familia_New_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Familia_New_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:21:11 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Familia/Mazda_Familia_New_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Familia_New_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:21:15 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Familia/Mazda_Familia_New_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Familia_New_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:21:48 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Familia/Mazda_Familia_New_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Familia_New_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:21:50 --> A non-numeric value encountered
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Asia/Mazda/Familia/Mazda_Familia_New_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home2/dgmtools...', 19, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Mazda_Familia_New_93c56->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:13 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:16 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:18 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:18 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:19 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:20 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', '')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:25 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:26 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:27 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:27 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:27 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:28 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:32:30 --> Class '\App\Scripts\C3' not found
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-12 20:32:35 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:34:12 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:34:15 --> Class 'Script' not found
+#0 /home2/dgmtools/codeigniter/app/Scripts/Script.php(54): require_once()
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-12 20:35:14 --> Class '\App\Scripts\C3' not found
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-12 20:35:17 --> Class '\App\Scripts\C3' not found
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Europa/...', 'EB00EB00EB00EB0...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

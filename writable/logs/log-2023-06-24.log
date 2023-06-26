@@ -1,0 +1,19 @@
+CRITICAL - 2023-06-24 00:01:34 --> finfo_file(/home/flasheep/codeigniter/writable/uploads/79.jpg): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'finfo_file(/hom...', '/home/flasheep/...', 109, Array)
+#1 /home/flasheep/codeigniter/system/Files/File.php(109): finfo_file(Resource id #147, '/home/flasheep/...')
+#2 /home/flasheep/codeigniter/app/Controllers/Library.php(67): CodeIgniter\Files\File->getMimeType()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Library->image(79)
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Library))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-06-24 23:48:17 --> Invalid file: developer_new.php
+#0 E:\xampp\htdocs\codeigniter1\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('developer_new.p...')
+#1 E:\xampp\htdocs\codeigniter1\system\Common.php(1097): CodeIgniter\View\View->render('developer_new', Array, true)
+#2 E:\xampp\htdocs\codeigniter1\app\Controllers\BaseController.php(129): view('developer_new', Array)
+#3 E:\xampp\htdocs\codeigniter1\app\Controllers\Developer.php(145): App\Controllers\BaseController->renderDefaultLayout_new('developer_new', Array)
+#4 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(824): App\Controllers\Developer->smtgenerator(42)
+#5 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#6 E:\xampp\htdocs\codeigniter1\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 E:\xampp\htdocs\public_html\index.php(39): CodeIgniter\CodeIgniter->run()
+#8 {main}

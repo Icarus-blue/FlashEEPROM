@@ -1,0 +1,74 @@
+ERROR - 2022-04-12 16:16:36 --> Duplicate entry '360-14-SCRIPTS CHINOS.lua' for key 'userid'
+CRITICAL - 2022-04-12 16:19:38 --> [string ""]:9: ')' expected near 'XOR'
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandbox->loadString('local size = fl...')
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(39): App\Scripts\LuaScript->runCode('local value = 1...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(492): App\Scripts\LuaScript->calculate(10000)
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 16:19:45 --> [string ""]:9: ')' expected near 'XOR'
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandbox->loadString('local size = fl...')
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(39): App\Scripts\LuaScript->runCode('local value = 1...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(492): App\Scripts\LuaScript->calculate(10000)
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 16:20:07 --> [string ""]:9: ')' expected near 'XOR'
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandbox->loadString('local size = fl...')
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(39): App\Scripts\LuaScript->runCode('local value = 1...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(492): App\Scripts\LuaScript->calculate(10000)
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 16:21:25 --> [string ""]:9: ')' expected near 'XOR'
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandbox->loadString('local size = fl...')
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(39): App\Scripts\LuaScript->runCode('local value = 2...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(492): App\Scripts\LuaScript->calculate(200000)
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 16:48:03 --> [string ""]:8: unexpected symbol near '/'
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandbox->loadString('local size = fl...')
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('\n//READ\n\n\nkm1 =...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(494): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 16:53:58 --> Class '\App\Scripts\Chevrolet_Sail_checksum_24c085' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Chevrol...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 16:53:58 --> Class '\App\Scripts\Chevrolet_Sail_checksum_24c085' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Chevrol...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-12 16:55:12 --> Class '\App\Scripts\Chevrolet_Sail_checksum_24c085' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Chevrol...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-12 17:01:57 --> Duplicate entry '360-14-SCRIPTS CHINOS.lua' for key 'userid'

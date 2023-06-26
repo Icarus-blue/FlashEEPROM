@@ -1,0 +1,48 @@
+CRITICAL - 2022-09-04 18:35:52 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/N300/Chevrolet_N300_93cL66A.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 30, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(255): App\Scripts\Chevrolet_N300_93cL66A->calculate(10000)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-04 18:36:28 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/N300/Chevrolet_N300_93cL66A.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 30, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(255): App\Scripts\Chevrolet_N300_93cL66A->calculate(10000)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-04 18:36:32 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/N300/Chevrolet_N300_93cL66A.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 30, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(255): App\Scripts\Chevrolet_N300_93cL66A->calculate(10000)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-04 18:36:57 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/N300/Chevrolet_N300_93cL66A.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 30, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(255): App\Scripts\Chevrolet_N300_93cL66A->calculate(10000)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-04 19:16:19 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/N300/Chevrolet_N300_93cL66A.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 37, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(255): App\Scripts\Chevrolet_N300_93cL66A->calculate(10000)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-09-04 19:16:33 --> A non-numeric value encountered
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/N300/Chevrolet_N300_93cL66A.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', '/home/flasheep/...', 37, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(255): App\Scripts\Chevrolet_N300_93cL66A->calculate(10000)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

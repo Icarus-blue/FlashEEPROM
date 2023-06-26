@@ -1,0 +1,537 @@
+CRITICAL - 2022-04-15 00:20:19 --> syntax error, unexpected '$repeated' (T_VARIABLE)
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Chevrol...', 'FF3F3F02020101A...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FF3F3F02020101A...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FF3F3F02020101A...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 00:26:08 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 00:26:23 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:39:52 --> Call to undefined function 4e0()
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(169): App\Scripts\Chevrolet_Sail_checksum_24c085->calculateRepeatedValue(10000)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(91): App\Scripts\Chevrolet_Sail_checksum_24c085->calculate(10000)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:40:01 --> Call to undefined function 4e0()
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(169): App\Scripts\Chevrolet_Sail_checksum_24c085->calculateRepeatedValue(10000)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(91): App\Scripts\Chevrolet_Sail_checksum_24c085->calculate(10000)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:41:58 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:01 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:01 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:02 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:02 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:16 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:16 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:17 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:17 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:32 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:33 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:45 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:45 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:46 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:46 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:42:59 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:02 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php(35): App\Scripts\Chevrolet_Sail_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:03 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php(35): App\Scripts\Chevrolet_Sail_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c08->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:05 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:06 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:06 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:07 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:07 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:20 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:21 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:21 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:21 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:21 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:28 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:30 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:43:31 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:44:13 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 10:44:14 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 11:19:36 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 11:20:10 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c085::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(35): App\Scripts\Chevrolet_Sail_checksum_24c085->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 11:34:43 --> intdiv() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'intdiv() expect...', '/home/flasheep/...', 37, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(37): intdiv(157696)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 11:34:50 --> intdiv() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'intdiv() expect...', '/home/flasheep/...', 37, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(37): intdiv(9984)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 11:35:42 --> intdiv() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'intdiv() expect...', '/home/flasheep/...', 30, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(30): intdiv(9984)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 11:35:43 --> intdiv() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'intdiv() expect...', '/home/flasheep/...', 30, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(30): intdiv(9984)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 11:35:43 --> intdiv() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'intdiv() expect...', '/home/flasheep/...', 30, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(30): intdiv(9984)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 11:35:43 --> intdiv() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'intdiv() expect...', '/home/flasheep/...', 30, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(30): intdiv(9984)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 11:35:47 --> intdiv() expects exactly 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'intdiv() expect...', '/home/flasheep/...', 30, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c085.php(30): intdiv(9984)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Chevrolet_Sail_checksum_24c085->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 12:02:24 --> Argument 1 passed to App\Scripts\Nissan_Qashqai_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/qashqai/Nissan_Qashqai_checksum_9s12h256.php(35): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(101): App\Scripts\Nissan_Qashqai_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-15 12:10:24 --> Class '\App\Scripts\Nissan_Qashqai_checksum_9s12h256' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Nissan/...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 19:59:12 --> Class '\App\Scripts\Demoi10' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Chevrol...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 19:59:15 --> Class '\App\Scripts\Demoi10' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Chevrol...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 20:25:48 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:26:00 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:26:17 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:26:21 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:26:21 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:26:37 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:26:38 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:26:38 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:26:48 --> A function with return type must return a value
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:26:49 --> A function with return type must return a value
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:28:04 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:28:06 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:28:06 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:28:06 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:29:06 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:29:07 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:29:07 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:29:20 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:29:21 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:31:23 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:31:25 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:31:25 --> Class App\Scripts\demoi10 contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (App\Scripts\Script::calculate)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 20:59:18 --> Invalid numeric literal
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Chevrol...', 'FFFFFFFF0006FFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFF0006FFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFF0006FFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 20:59:46 --> Invalid numeric literal
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Chevrol...', 'FFFFFFFF0006FFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFF0006FFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFF0006FFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 21:00:01 --> Invalid numeric literal
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Chevrol...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 21:10:12 --> Call to undefined method App\Scripts\demoi10::getValueForPortion()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(91): App\Scripts\demoi10->calculate(80)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 21:31:59 --> substr() expects at most 3 parameters, 4 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'substr() expect...', '/home/flasheep/...', 166, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/demoi10.php(166): substr('818238456878890...', 0, 2, 4)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(91): App\Scripts\demoi10->calculate(0)
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 22:11:52 --> substr() expects at most 3 parameters, 4 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'substr() expect...', '/home/flasheep/...', 166, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/Chevrolet/Sail/demoi10.php(166): substr('81,82,38,45,68,...', 0, 2, 2)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(91): App\Scripts\demoi10->calculate(0)
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

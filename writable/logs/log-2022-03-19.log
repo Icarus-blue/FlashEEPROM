@@ -1,0 +1,42 @@
+CRITICAL - 2022-03-19 11:23:19 --> Argument 1 passed to App\Scripts\Nissan_NP300_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/NP300/Nissan_NP300_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/NP300/Nissan_NP300_checksum_9s12h256.php(35): App\Scripts\Nissan_NP300_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(90): App\Scripts\Nissan_NP300_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-19 11:23:46 --> Argument 1 passed to App\Scripts\Nissan_Navara_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/Navara/Nissan_Navara_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/Navara/Nissan_Navara_checksum_9s12h256.php(35): App\Scripts\Nissan_Navara_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(90): App\Scripts\Nissan_Navara_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-19 11:23:49 --> Argument 1 passed to App\Scripts\Nissan_Navara_checksum_9s12h256::getValueForPortion() must be of the type int, null given, called in /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/Navara/Nissan_Navara_checksum_9s12h256.php on line 35
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Nissan/Navara/Nissan_Navara_checksum_9s12h256.php(35): App\Scripts\Nissan_Navara_checksum_9s12h256->getValueForPortion(NULL, 1)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(90): App\Scripts\Nissan_Navara_checksum_9s12h256->getResult()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-19 11:30:05 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 11:30:38 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 11:31:13 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 11:32:06 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 11:32:33 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 11:33:02 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 11:33:56 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 11:35:04 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 13:13:01 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 13:13:43 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 14:24:08 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 14:24:57 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 14:35:13 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 17:49:18 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 17:50:40 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 17:55:34 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 17:56:09 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-19 17:57:38 --> Field 'is_developer' doesn't have a default value

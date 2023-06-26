@@ -1,0 +1,48 @@
+CRITICAL - 2021-12-08 15:19:43 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-08 17:51:51 --> Call to undefined method App\Controllers\User::register2Form()
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\User->register2()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-08 17:51:53 --> Call to undefined method App\Controllers\User::register2Form()
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\User->register2()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-08 17:51:54 --> Call to undefined method App\Controllers\User::register2Form()
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\User->register2()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-08 17:52:05 --> Call to undefined method App\Controllers\User::register2Form()
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\User->register2()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-08 18:04:43 --> Call to undefined method App\Controllers\User::register2Form()
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\User->register2()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-08 21:33:00 --> Invalid file: grupos.php
+#0 C:\xampp\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('grupos.php')
+#1 C:\xampp\codeigniter\system\Common.php(1097): CodeIgniter\View\View->render('grupos', Array, true)
+#2 C:\xampp\codeigniter\app\Controllers\BaseController.php(103): view('grupos', Array)
+#3 C:\xampp\codeigniter\app\Controllers\Blog.php(13): App\Controllers\BaseController->renderDefaultLayout('grupos')
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Blog->grupos()
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

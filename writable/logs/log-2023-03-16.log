@@ -1,0 +1,9 @@
+ERROR - 2023-03-16 09:50:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND feeds_userid IS Null' at line 1
+CRITICAL - 2023-03-16 09:50:06 --> Call to a member function getResult() on bool
+#0 /home/flasheep/codeigniter/app/Controllers/Edx_ajax.php(382): App\Models\FeedsSystemModel->feeds_likes('', '27')
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Edx_ajax->feeds_likes()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Edx_ajax))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-03-16 15:15:25 --> Duplicate entry '109.38.134.180' for key 'ip.address'

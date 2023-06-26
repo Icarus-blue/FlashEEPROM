@@ -1,0 +1,49 @@
+CRITICAL - 2022-03-27 01:00:28 --> Argument 1 passed to App\Controllers\Script::getPathInformation() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Script.php on line 76
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(76): App\Controllers\Script->getPathInformation(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-27 15:47:26 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-27 15:47:26 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/flasheep/codeigniter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/flasheep/codeigniter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/flasheep/codeigniter/system/Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/flasheep/codeigniter/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 /home/flasheep/codeigniter/app/Models/ScriptModel.php(26): CodeIgniter\BaseModel->first()
+#5 /home/flasheep/codeigniter/app/Controllers/Script.php(84): App\Models\ScriptModel->getScript('scripts/Chevrol...')
+#6 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#7 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#8 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-27 15:47:27 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-27 15:47:27 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/flasheep/codeigniter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/flasheep/codeigniter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/flasheep/codeigniter/system/Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/flasheep/codeigniter/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 /home/flasheep/codeigniter/app/Models/ScriptModel.php(26): CodeIgniter\BaseModel->first()
+#5 /home/flasheep/codeigniter/app/Controllers/Script.php(84): App\Models\ScriptModel->getScript('scripts/Chevrol...')
+#6 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#7 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#8 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-27 15:47:27 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-03-27 15:47:27 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/flasheep/codeigniter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/flasheep/codeigniter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/flasheep/codeigniter/system/Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/flasheep/codeigniter/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 /home/flasheep/codeigniter/app/Models/ScriptModel.php(26): CodeIgniter\BaseModel->first()
+#5 /home/flasheep/codeigniter/app/Controllers/Script.php(84): App\Models\ScriptModel->getScript('scripts/Chevrol...')
+#6 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#7 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#8 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

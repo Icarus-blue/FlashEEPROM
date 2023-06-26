@@ -1,0 +1,199 @@
+ERROR - 2022-08-24 20:18:27 --> Duplicate entry '132.184.130.240' for key 'address'
+CRITICAL - 2022-08-24 21:46:51 --> Class '\App\Scripts\C3' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:46:57 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:47:36 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:47:42 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:47:45 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:47:50 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:47:51 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:47:53 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:47:54 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:01 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:37 --> Class '\App\Scripts\C3' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:38 --> Class '\App\Scripts\C3' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:38 --> Class '\App\Scripts\C3' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:39 --> Class '\App\Scripts\C3' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:46 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:47 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:50 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:51 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:52 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:52 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:52 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-08-24 21:48:53 --> Class '\App\Scripts\Citroen_C3_Bsi_v1_95128' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Citroen...', '00007A0101007A0...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(288): App\Scripts\ScriptList::getScriptByPathInformation(Array, '00007A0101007A0...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(241): App\Controllers\Script->getScript(Array, '00007A0101007A0...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

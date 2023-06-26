@@ -1,0 +1,197 @@
+CRITICAL - 2022-03-06 11:23:42 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php(35): App\Scripts\Chevrolet_Sail_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Chevrolet_Sail_checksum_24c08->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-06 11:23:47 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php(35): App\Scripts\Chevrolet_Sail_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Chevrolet_Sail_checksum_24c08->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-06 11:23:59 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php(35): App\Scripts\Chevrolet_Sail_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Chevrolet_Sail_checksum_24c08->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-06 11:24:34 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php(35): App\Scripts\Chevrolet_Sail_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Chevrolet_Sail_checksum_24c08->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-06 11:24:35 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php(35): App\Scripts\Chevrolet_Sail_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Chevrolet_Sail_checksum_24c08->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-06 11:24:37 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php(35): App\Scripts\Chevrolet_Sail_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Chevrolet_Sail_checksum_24c08->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-06 11:24:41 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php(35): App\Scripts\Chevrolet_Sail_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Chevrolet_Sail_checksum_24c08->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-06 11:24:42 --> Argument 1 passed to App\Scripts\Chevrolet_Sail_checksum_24c08::getValueForPortion() must be of the type int, null given, called in /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php on line 35
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Chevrolet/Sail/Chevrolet_Sail_checksum_24c08.php(35): App\Scripts\Chevrolet_Sail_checksum_24c08->getValueForPortion(NULL, 1)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(64): App\Scripts\Chevrolet_Sail_checksum_24c08->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-06 19:01:12 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', '000000000000000...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:12 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', '000000000000000...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:14 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', '000000000000000...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:30 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:33 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:37 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:37 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:37 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:43 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:47 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:47 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:47 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:01:47 --> syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:11:55 --> syntax error, unexpected '}', expecting end of file
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:12:13 --> syntax error, unexpected '}', expecting end of file
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:12:16 --> syntax error, unexpected '}', expecting end of file
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:12:16 --> syntax error, unexpected '}', expecting end of file
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 19:12:16 --> syntax error, unexpected '}', expecting end of file
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript('scripts/Toyota/...', 'FFFFFFFF55AA55A...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 22:29:37 --> Argument 1 passed to App\Scripts\Script::getScript() must be of the type string, null given, called in /home2/dgmtools/codeigniter/app/Controllers/Script.php on line 53
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(53): App\Scripts\Script::getScript(NULL, NULL)
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

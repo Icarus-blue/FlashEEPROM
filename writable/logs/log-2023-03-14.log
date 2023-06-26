@@ -1,0 +1,155 @@
+CRITICAL - 2023-03-14 19:46:17 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:18 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:18 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:19 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:21 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:21 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:23 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:23 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:28 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:29 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:30 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:30 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:30 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:30 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:31 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:31 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:31 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:31 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:31 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 19:46:32 --> Argument 4 passed to App\Models\CommentModel::createComment() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Comment.php on line 34
+#0 /home/flasheep/codeigniter/app/Controllers/Comment.php(34): App\Models\CommentModel->createComment(Object(App\Entities\User), Object(App\Entities\Script), NULL, NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Comment->post(800)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comment))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-03-14 20:45:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY log_type ASC' at line 1
+CRITICAL - 2023-03-14 20:45:42 --> Call to a member function getResult() on bool
+#0 /home/flasheep/codeigniter/app/Controllers/Edx_ajax.php(416): App\Models\FeedsSystemModel->gets_notifications(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Edx_ajax->show_notifications()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Edx_ajax))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-03-14 20:45:42 --> Invalid argument supplied for foreach()
+#0 /home/flasheep/codeigniter/app/Controllers/Edx_ajax.php(566): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/flasheep/...', 566, Array)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Edx_ajax->update_notify()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Edx_ajax))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

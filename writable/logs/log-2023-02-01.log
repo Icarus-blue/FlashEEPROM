@@ -1,0 +1,323 @@
+CRITICAL - 2023-02-01 11:53:54 --> Class '\App\Scripts\Hyundai_i10_2018_crc_v2' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', 'FF003F3F0119070...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FF003F3F0119070...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FF003F3F0119070...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-01 11:53:55 --> Class '\App\Scripts\Hyundai_i10_2018_crc_v2' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', 'FF003F3F0119070...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FF003F3F0119070...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FF003F3F0119070...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-01 11:53:55 --> Class '\App\Scripts\Hyundai_i10_2018_crc_v2' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', 'FF003F3F0119070...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FF003F3F0119070...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FF003F3F0119070...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-01 11:53:56 --> Class '\App\Scripts\Hyundai_i10_2018_crc_v2' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', 'FF003F3F0119070...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FF003F3F0119070...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FF003F3F0119070...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-01 11:53:56 --> Class '\App\Scripts\Hyundai_i10_2018_crc_v2' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Hyundai...', 'FF003F3F0119070...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FF003F3F0119070...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FF003F3F0119070...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2023-02-01 13:01:07 --> Argument 1 passed to App\Controllers\Script::getPathInformation() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Script.php on line 232
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(232): App\Controllers\Script->getPathInformation(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:51:45 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:52:06 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:52:32 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:52:39 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:52:41 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:52:42 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:52:56 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:53:07 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:53:41 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:53:57 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:54:05 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:54:34 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:55:14 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:55:19 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 13:58:07 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 14:00:49 --> The action you requested is not allowed.
+#0 /home/flasheep/codeigniter/app/Controllers/User.php(176): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\User->login()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 18:59:25 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 18:59:26 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 18:59:27 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 18:59:27 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 18:59:28 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 18:59:28 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 18:59:28 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 18:59:38 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 18:59:39 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 18:59:39 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 18:59:40 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 19:00:14 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 19:00:15 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 19:00:15 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 19:00:15 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 19:00:19 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 19:00:20 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 19:00:20 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2023-02-01 19:00:20 --> Call to undefined function App\Scripts\getByteForPosition()
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(259): App\Scripts\Jac_T8_Mc9s12xhy256_crc->getResult()
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2023-02-01 19:02:18 --> Incorrect string value: '\xC3\xC3\xC3\xC320...' for column 'filename' at row 1
+ERROR - 2023-02-01 19:04:38 --> Incorrect string value: '\xC3\xC3\xC3\xC320...' for column 'filename' at row 1
+CRITICAL - 2023-02-01 19:38:26 --> Use of undefined constant FF - assumed 'FF' (this will throw an Error in a future version of PHP)
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Jac/Jac_T8_Mc9s12xhy256_crc.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home/flasheep/...', 68, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(255): App\Scripts\Jac_T8_Mc9s12xhy256_crc->calculate(45123)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-01 19:38:36 --> Use of undefined constant FF - assumed 'FF' (this will throw an Error in a future version of PHP)
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Jac/Jac_T8_Mc9s12xhy256_crc.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home/flasheep/...', 68, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(255): App\Scripts\Jac_T8_Mc9s12xhy256_crc->calculate(45123)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2023-02-01 19:38:43 --> Use of undefined constant FF - assumed 'FF' (this will throw an Error in a future version of PHP)
+#0 /home/flasheep/codeigniter/app/Scripts/scripts/Jac/Jac_T8_Mc9s12xhy256_crc.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home/flasheep/...', 68, Array)
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(255): App\Scripts\Jac_T8_Mc9s12xhy256_crc->calculate(45123)
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

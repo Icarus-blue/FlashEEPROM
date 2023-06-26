@@ -1,0 +1,22 @@
+ERROR - 2022-09-19 18:56:08 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-09-19 18:56:08 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/flasheep/codeigniter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/flasheep/codeigniter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/flasheep/codeigniter/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/flasheep/codeigniter/system/BaseModel.php(523): CodeIgniter\Model->doFind(true, 681)
+#4 /home/flasheep/codeigniter/app/Models/UserModel.php(140): CodeIgniter\BaseModel->find(681)
+#5 /home/flasheep/codeigniter/app/Controllers/BaseController.php(60): App\Models\UserModel->getUserById(681)
+#6 /home/flasheep/codeigniter/app/Controllers/Script.php(15): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home/flasheep/codeigniter/system/CodeIgniter.php(802): App\Controllers\Script->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home/flasheep/codeigniter/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#9 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-09-19 19:05:32 --> Argument 1 passed to App\Controllers\Script::getPathInformation() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Script.php on line 232
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(232): App\Controllers\Script->getPathInformation(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,692 @@
+CRITICAL - 2021-12-07 02:08:56 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 02:08:59 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 02:09:00 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 02:11:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 02:11:56 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 02:15:30 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 02:15:31 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 02:16:04 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 02:16:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 02:16:13 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 02:16:14 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 02:16:20 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\correo\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\correo\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\correo\public_html\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2021-12-07 23:05:34 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\index.php(28): require('C:\\xampp\\codeig...')
+#4 {main}
+CRITICAL - 2021-12-07 23:06:10 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\index.php(28): require('C:\\xampp\\codeig...')
+#4 {main}
+CRITICAL - 2021-12-07 23:06:36 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\index.php(28): require('C:\\xampp\\codeig...')
+#4 {main}
+CRITICAL - 2021-12-07 23:07:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\index.php(28): require('C:\\xampp\\codeig...')
+#4 {main}
+CRITICAL - 2021-12-07 23:11:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\codeigniter\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\index.php(28): require('C:\\xampp\\codeig...')
+#4 {main}
+CRITICAL - 2021-12-07 16:15:01 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:02 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:02 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:02 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:04 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:04 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:06 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:06 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:06 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:07 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:07 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:07 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:07 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:30 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:31 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:31 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:34 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:34 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:35 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:35 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:36 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA3...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA3...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:37 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA3...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA3...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:15:48 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:16:05 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:16:06 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:16:10 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\D\\Digit...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\D\\Digit...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:16:10 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\D\\Lista...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\D\\Lista...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:17:18 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\D\\Digit...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\D\\Digit...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:17:27 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:18:31 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:18:31 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:18:33 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:18:48 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:18:48 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:18:52 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\D\\Digit...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\D\\Digit...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:18:54 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\B\\ejemp...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\B\\ejemp...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:19:03 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:19:04 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:19:04 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:20:03 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\B\\ejemp...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\B\\ejemp...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:21:35 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\B\\ejemp...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\B\\ejemp...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:21:36 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\B\\ejemp...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\B\\ejemp...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:23:43 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:24:22 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\D\\Digit...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\D\\Digit...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:24:23 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\D\\Lista...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\D\\Lista...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:24:27 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:26:21 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:26:44 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\B\\ejemp...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\B\\ejemp...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:26:44 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\B\\ejemp...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\B\\ejemp...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:26:56 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:26:56 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:26:57 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:28:08 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:28:08 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:29:15 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\B\\ejemp...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\B\\ejemp...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:29:15 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\B\\ejemp...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\B\\ejemp...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:29:17 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\A\\Multi...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\A\\Multi...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:29:19 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:29:19 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:29:29 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\B\\ejemp...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\B\\ejemp...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:31:18 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\B\\ejemp...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\B\\ejemp...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:31:24 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:33:42 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\B\\ejemp...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\B\\ejemp...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-07 16:42:25 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\PRUEBA2...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\PRUEBA2...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2021-12-07 16:43:16 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2021-12-07 16:43:16 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\codeigniter\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\codeigniter\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\codeigniter\system\Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\codeigniter\system\BaseModel.php(622): CodeIgniter\Model->doFirst()
+#4 C:\xampp\codeigniter\app\Models\ScriptModel.php(26): CodeIgniter\BaseModel->first()
+#5 C:\xampp\codeigniter\app\Controllers\Script.php(45): App\Models\ScriptModel->getScript('scripts\\PRUEBA2...')
+#6 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#7 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#8 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

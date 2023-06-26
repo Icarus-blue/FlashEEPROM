@@ -1,0 +1,43 @@
+CRITICAL - 2022-02-16 21:14:27 --> Use of undefined constant demo - assumed 'demo' (this will throw an Error in a future version of PHP)
+#0 /home2/dgmtools/codeigniter/app/Scripts/scripts/Inicio/Bienvenida.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', '/home2/dgmtools...', 12, Array)
+#1 /home2/dgmtools/codeigniter/app/Controllers/Script.php(50): App\Scripts\Bienvenida->getResult()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-16 21:18:40 --> Class '\App\Scripts\Bienvenida' not found
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Inicio/...', 'FFFFFFFFFFFFFFF...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-16 21:18:51 --> Return value of App\Scripts\Script::getScript() must be an instance of App\Scripts\Script, none returned
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Inicio/...', 'FFFFFFFFFFFFFFF...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-16 21:18:53 --> Return value of App\Scripts\Script::getScript() must be an instance of App\Scripts\Script, none returned
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Inicio/...', 'FFFFFFFFFFFFFFF...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-16 21:19:09 --> Return value of App\Scripts\Script::getScript() must be an instance of App\Scripts\Script, none returned
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Inicio/...', 'FFFFFFFFFFFFFFF...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-16 22:40:20 --> Return value of App\Scripts\Script::getScript() must be an instance of App\Scripts\Script, none returned
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Inicio/...', 'FFFFFFFFFFFFFFF...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

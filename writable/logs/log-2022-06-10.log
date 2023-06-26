@@ -1,0 +1,30 @@
+ERROR - 2022-06-10 15:21:13 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-06-10 15:21:13 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/flasheep/codeigniter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/flasheep/codeigniter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/flasheep/codeigniter/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/flasheep/codeigniter/system/BaseModel.php(523): CodeIgniter\Model->doFind(true, 460)
+#4 /home/flasheep/codeigniter/app/Models/UserModel.php(140): CodeIgniter\BaseModel->find(460)
+#5 /home/flasheep/codeigniter/app/Controllers/BaseController.php(60): App\Models\UserModel->getUserById(460)
+#6 /home/flasheep/codeigniter/app/Controllers/Library.php(16): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home/flasheep/codeigniter/system/CodeIgniter.php(802): App\Controllers\Library->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home/flasheep/codeigniter/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#9 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-10 15:21:19 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-06-10 15:21:19 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/flasheep/codeigniter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/flasheep/codeigniter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/flasheep/codeigniter/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/flasheep/codeigniter/system/BaseModel.php(523): CodeIgniter\Model->doFind(true, 460)
+#4 /home/flasheep/codeigniter/app/Models/UserModel.php(140): CodeIgniter\BaseModel->find(460)
+#5 /home/flasheep/codeigniter/app/Controllers/BaseController.php(60): App\Models\UserModel->getUserById(460)
+#6 /home/flasheep/codeigniter/app/Controllers/Library.php(16): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#7 /home/flasheep/codeigniter/system/CodeIgniter.php(802): App\Controllers\Library->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#8 /home/flasheep/codeigniter/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#9 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}

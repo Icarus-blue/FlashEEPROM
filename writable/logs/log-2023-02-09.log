@@ -1,0 +1,51 @@
+CRITICAL - 2023-02-09 15:46:18 --> Class '\App\Scripts\Opel_monterey_93C46' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Opel/va...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-02-09 17:46:43 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-02-09 17:46:43 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/flasheep/codeigniter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/flasheep/codeigniter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/flasheep/codeigniter/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/flasheep/codeigniter/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 /home/flasheep/codeigniter/app/Models/ConfigModel.php(40): CodeIgniter\BaseModel->findAll()
+#5 /home/flasheep/codeigniter/app/Controllers/Home.php(41): App\Models\ConfigModel->getMultipleByName(Array)
+#6 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Home->index()
+#7 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-09 17:46:47 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-02-09 17:46:47 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/flasheep/codeigniter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/flasheep/codeigniter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/flasheep/codeigniter/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/flasheep/codeigniter/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 /home/flasheep/codeigniter/app/Models/ConfigModel.php(40): CodeIgniter\BaseModel->findAll()
+#5 /home/flasheep/codeigniter/app/Controllers/Home.php(41): App\Models\ConfigModel->getMultipleByName(Array)
+#6 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Home->index()
+#7 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-02-09 17:46:48 --> Error connecting to the database: No such file or directory
+CRITICAL - 2023-02-09 17:46:48 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/flasheep/codeigniter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/flasheep/codeigniter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/flasheep/codeigniter/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/flasheep/codeigniter/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 /home/flasheep/codeigniter/app/Models/ConfigModel.php(40): CodeIgniter\BaseModel->findAll()
+#5 /home/flasheep/codeigniter/app/Controllers/Home.php(41): App\Models\ConfigModel->getMultipleByName(Array)
+#6 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Home->index()
+#7 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

@@ -1,0 +1,1033 @@
+CRITICAL - 2021-12-09 10:26:11 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:26:12 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:30:47 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', 'FFFFFFFFFFFFFFF...')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:30:47 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', 'FFFFFFFFFFFFFFF...')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:31:06 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', 'FFFFFFFFFFFFFFF...')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:31:07 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', 'FFFFFFFFFFFFFFF...')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:31:07 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', 'FFFFFFFFFFFFFFF...')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:31:27 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', 'FFFFFFFFFFFFFFF...')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:31:28 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', 'FFFFFFFFFFFFFFF...')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:31:37 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:31:38 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:31:38 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:32:06 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:32:07 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:32:07 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:32:07 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:32:12 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:32:13 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:32:15 --> syntax error, unexpected 'extends' (T_EXTENDS), expecting '{'
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:39:06 --> Class '\App\Scripts\Mazda_3_2014_93c56' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:39:07 --> Class '\App\Scripts\Mazda_3_2014_93c56' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:39:35 --> Class '\App\Scripts\Mazda_3_2015_93c56' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:39:36 --> Class '\App\Scripts\Mazda_3_2015_93c56' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:39:37 --> Class '\App\Scripts\Mazda_3_2015_93c56' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ma...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 10:39:52 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:39:53 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:39:54 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:39:55 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:39:56 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:40:52 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:41:30 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:41:31 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:41:31 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:41:33 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:41:35 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:42:07 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:42:08 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:42:25 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:42:26 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:42:28 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:42:29 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:42:29 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:42:29 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:42:29 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 19, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 10:43:22 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\323\Mazda_323_93c56.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 18, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_323_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:06:35 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:36 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:36 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:37 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:38 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:38 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:39 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:40 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:47 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:47 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:48 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:49 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:50 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:52 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:52 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:52 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:06:53 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:07:48 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:07:48 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:07:54 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:08:09 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:08:12 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:08:22 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:08:52 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:09:00 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:09:01 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2021-12-09 11:09:55 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\Familia\Mazda_Familia_93c56.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 13, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_Familia_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:09:57 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\Familia\Mazda_Familia_93c56.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 13, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_Familia_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:09:57 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\Familia\Mazda_Familia_93c56.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 13, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_Familia_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:10:01 --> A non-numeric value encountered
+#0 C:\xampp\codeigniter\app\Scripts\scripts\Asia\Mazda\Familia\Mazda_Familia_93c56.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\codeig...', 13, Array)
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(50): App\Scripts\Mazda_Familia_93c56->getResult()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:28:13 --> Class 'Script' not found
+#0 C:\xampp\codeigniter\app\Scripts\Script.php(54): require_once()
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Da...', '')
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:28:14 --> Class 'Script' not found
+#0 C:\xampp\codeigniter\app\Scripts\Script.php(54): require_once()
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Da...', '')
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:28:14 --> Class 'Script' not found
+#0 C:\xampp\codeigniter\app\Scripts\Script.php(54): require_once()
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Da...', '')
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:28:15 --> Class 'Script' not found
+#0 C:\xampp\codeigniter\app\Scripts\Script.php(54): require_once()
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Da...', '')
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:33:10 --> Class 'Script' not found
+#0 C:\xampp\codeigniter\app\Scripts\Script.php(54): require_once()
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Da...', '80FF80FF80FF80F...')
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:33:10 --> Class 'Script' not found
+#0 C:\xampp\codeigniter\app\Scripts\Script.php(54): require_once()
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Da...', '80FF80FF80FF80F...')
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:33:11 --> Class 'Script' not found
+#0 C:\xampp\codeigniter\app\Scripts\Script.php(54): require_once()
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Da...', '80FF80FF80FF80F...')
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:33:11 --> Class 'Script' not found
+#0 C:\xampp\codeigniter\app\Scripts\Script.php(54): require_once()
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Da...', '80FF80FF80FF80F...')
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 11:33:11 --> Class 'Script' not found
+#0 C:\xampp\codeigniter\app\Scripts\Script.php(54): require_once()
+#1 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Da...', '80FF80FF80FF80F...')
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-09 12:44:38 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:39 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:40 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:40 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:41 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:41 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:41 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:41 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:42 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:42 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:42 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:43 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\To...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\To...', '150F150F140F140...')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:49 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:50 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:50 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:50 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:50 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:50 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:51 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:51 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:51 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:52 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:52 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:52 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:52 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:53 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:53 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:53 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:44:54 --> preg_replace(): No ending delimiter '#' found
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_replace():...', 'C:\\xampp\\codeig...', 35, Array)
+#1 C:\xampp\codeigniter\app\Scripts\Script.php(35): preg_replace('#^scripts\\#', '', 'scripts\\Asia\\Ac...')
+#2 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ac...', '')
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#4 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-09 12:56:43 --> Argument 1 passed to App\Scripts\BinCompiler::compile() must be of the type string, null given, called in C:\xampp\codeigniter\app\Controllers\Script.php on line 28
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(28): App\Scripts\BinCompiler->compile(NULL)
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:00:39 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:42 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:43 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:43 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:43 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:43 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:46 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:46 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:46 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:46 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:47 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:47 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:47 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:49 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:49 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:49 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:52 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:52 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:52 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:52 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:53 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:00:58 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:01:07 --> Class 'App\Scripts\Compiler' not found
+#0 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->compile()
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-09 13:38:18 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:19 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:19 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:20 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:20 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:20 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:26 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:27 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:27 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:27 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:28 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:28 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:29 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-09 13:38:30 --> Class '\App\Scripts\Nissan_tiida_kansey_93c66' not found
+#0 C:\xampp\codeigniter\app\Controllers\Script.php(43): App\Scripts\Script::getScript('scripts\\Asia\\Ni...', '')
+#1 C:\xampp\codeigniter\system\CodeIgniter.php(824): App\Controllers\Script->run()
+#2 C:\xampp\codeigniter\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 C:\xampp\codeigniter\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-09 19:06:58 --> Email: sendWithMail throwed Use of undefined constant INTL_IDNA_VARIANT_UTS46 - assumed 'INTL_IDNA_VARIANT_UTS46' (this will throw an Error in a future version of PHP)
+CRITICAL - 2021-12-09 21:11:26 --> Invalid file: Contacto.php
+#0 /home2/dgmtools/codeigniter/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Contacto.php')
+#1 /home2/dgmtools/codeigniter/system/Common.php(1097): CodeIgniter\View\View->render('Contacto', Array, true)
+#2 /home2/dgmtools/codeigniter/app/Controllers/BaseController.php(103): view('Contacto', Array)
+#3 /home2/dgmtools/codeigniter/app/Controllers/Blog.php(17): App\Controllers\BaseController->renderDefaultLayout('Contacto')
+#4 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Blog->Contacto()
+#5 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

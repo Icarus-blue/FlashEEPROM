@@ -1,0 +1,97 @@
+CRITICAL - 2022-03-21 01:12:35 --> syntax error, unexpected 's' (T_STRING), expecting ']'
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(143): App\Scripts\Script::getScript('scripts/GreetWa...', 'F2FCE5F9CBF397E...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'F2FCE5F9CBF397E...')
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-21 02:03:54 --> Argument 1 passed to App\Controllers\Script::getPathInformation() must be of the type string, null given, called in /home/flasheep/codeigniter/app/Controllers/Script.php on line 76
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(76): App\Controllers\Script->getPathInformation(NULL)
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-21 10:25:50 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-21 10:26:06 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-21 10:26:45 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-21 10:27:06 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-21 10:54:39 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-21 10:56:23 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-21 10:57:07 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-21 10:57:25 --> Field 'is_developer' doesn't have a default value
+ERROR - 2022-03-21 10:59:55 --> Field 'is_developer' doesn't have a default value
+CRITICAL - 2022-03-21 11:03:07 --> Class '\App\Scripts\Ford_Explorer_2013' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Ford/Ex...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 11:03:09 --> Class '\App\Scripts\Ford_Explorer_2013' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Ford/Ex...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 11:03:14 --> Class '\App\Scripts\Ford_Explorer_2013' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/Ford/Ex...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', NULL)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-03-21 11:08:44 --> Field 'is_developer' doesn't have a default value
+CRITICAL - 2022-03-21 22:44:06 --> syntax error, unexpected ';', expecting ']'
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(89): App\Scripts\Script::getScript('scripts/GreetWa...', 'C7FE8FFD1FFB3FF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(123): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'C7FE8FFD1FFB3FF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(79): App\Controllers\Script->getScript(Array, 'C7FE8FFD1FFB3FF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 22:45:31 --> strrev() expects exactly 1 parameter, 3 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strrev() expect...', '/home/flasheep/...', 75, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/GreetWall/GreatWall_Wingle_24c32.php(75): strrev('fec7', 0, 2)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(91): App\Scripts\GreatWall_Wingle_24c32->calculate(10000)
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 22:46:00 --> strrev() expects exactly 1 parameter, 3 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strrev() expect...', '/home/flasheep/...', 75, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/GreetWall/GreatWall_Wingle_24c32.php(75): strrev('fec7', 0, 2)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(91): App\Scripts\GreatWall_Wingle_24c32->calculate(10000)
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 22:46:13 --> strrev() expects exactly 1 parameter, 3 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strrev() expect...', '/home/flasheep/...', 75, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/GreetWall/GreatWall_Wingle_24c32.php(75): strrev('fec7', 2, 2)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(91): App\Scripts\GreatWall_Wingle_24c32->calculate(10000)
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 22:46:23 --> strrev() expects exactly 1 parameter, 3 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'strrev() expect...', '/home/flasheep/...', 75, Array)
+#1 /home/flasheep/codeigniter/app/Scripts/scripts/GreetWall/GreatWall_Wingle_24c32.php(75): strrev('fec7', 2, 2)
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(91): App\Scripts\GreatWall_Wingle_24c32->calculate(10000)
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

@@ -1,0 +1,35 @@
+ERROR - 2022-03-29 13:26:17 --> Duplicate entry 'e6258f20e57522ff7bbb444695d623b1acc6e51ba1a49b67f7f0d72fd65a45f9' for key 'hash'
+CRITICAL - 2022-03-29 13:26:17 --> Return value of App\Models\ScriptModel::getScript() must be an instance of App\Entities\Script or null, none returned
+#0 /home/flasheep/codeigniter/app/Controllers/Script.php(84): App\Models\ScriptModel->getScript('scripts/Hyundai...')
+#1 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-29 18:01:02 --> [string ""]:18: attempt to call a number value
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandboxFunction->call()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('A= readreverse(...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(494): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 18:02:15 --> [string ""]:18: attempt to call global 'A' (a number value)
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandboxFunction->call()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('A= readreverse(...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(494): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-29 18:07:37 --> [string ""]:18: attempt to call global 'A' (a number value)
+#0 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(103): LuaSandboxFunction->call()
+#1 /home/flasheep/codeigniter/app/Scripts/LuaScript.php(21): App\Scripts\LuaScript->runCode('A= readreverse(...')
+#2 /home/flasheep/codeigniter/app/Controllers/Developer.php(494): App\Scripts\LuaScript->getResult()
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Developer->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Developer))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

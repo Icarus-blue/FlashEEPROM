@@ -1,0 +1,13 @@
+CRITICAL - 2023-02-15 08:41:23 --> Class '\App\Scripts\Acura_CL_93c56' not found
+#0 /home/flasheep/codeigniter/app/Scripts/ScriptList.php(159): App\Scripts\Script::getScript('scripts/Acura/A...', 'FFFFFFFFFFFFFFF...')
+#1 /home/flasheep/codeigniter/app/Controllers/Script.php(287): App\Scripts\ScriptList::getScriptByPathInformation(Array, 'FFFFFFFFFFFFFFF...', Object(App\Entities\User))
+#2 /home/flasheep/codeigniter/app/Controllers/Script.php(235): App\Controllers\Script->getScript(Array, 'FFFFFFFFFFFFFFF...')
+#3 /home/flasheep/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#4 /home/flasheep/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#5 /home/flasheep/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/flasheep/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2023-02-15 14:52:12 --> Duplicate entry 'luisdoeh18@gmail.com' for key 'email'
+ERROR - 2023-02-15 14:52:34 --> Duplicate entry 'luisdoeh18@gmail.com' for key 'email'
+ERROR - 2023-02-15 19:00:07 --> Duplicate entry 'luisdoeh18@gmail.com' for key 'email'
+ERROR - 2023-02-15 19:00:49 --> Duplicate entry 'luisdoeh18@gmail.com' for key 'email'

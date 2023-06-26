@@ -1,0 +1,3 @@
+CRITICAL - 2023-06-26 07:49:13 --> Cannot redeclare array_as_treeview() (previously declared in E:\xampp\htdocs\codeigniter1\app\Helpers\tree_helper.php:3)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

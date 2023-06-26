@@ -1,0 +1,7 @@
+CRITICAL - 2021-12-13 17:09:59 --> Argument 1 passed to App\Scripts\Script::getScript() must be of the type string, null given, called in /home2/dgmtools/codeigniter/app/Controllers/Script.php on line 43
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript(NULL, NULL)
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

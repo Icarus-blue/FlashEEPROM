@@ -1,0 +1,18 @@
+ERROR - 2022-02-11 12:59:15 --> Cannot add or update a child row: a foreign key constraint fails (`dgmtools_hexeditor`.`activity`, CONSTRAINT `activity_ibfk_3` FOREIGN KEY (`shareid`) REFERENCES `share` (`shareid`) ON DELETE CASCADE)
+ERROR - 2022-02-11 14:38:03 --> Cannot add or update a child row: a foreign key constraint fails (`dgmtools_hexeditor`.`activity`, CONSTRAINT `activity_ibfk_3` FOREIGN KEY (`shareid`) REFERENCES `share` (`shareid`) ON DELETE CASCADE)
+ERROR - 2022-02-11 14:39:57 --> Cannot add or update a child row: a foreign key constraint fails (`dgmtools_hexeditor`.`activity`, CONSTRAINT `activity_ibfk_3` FOREIGN KEY (`shareid`) REFERENCES `share` (`shareid`) ON DELETE CASCADE)
+ERROR - 2022-02-11 14:48:01 --> Cannot add or update a child row: a foreign key constraint fails (`dgmtools_hexeditor`.`activity`, CONSTRAINT `activity_ibfk_3` FOREIGN KEY (`shareid`) REFERENCES `share` (`shareid`) ON DELETE CASCADE)
+CRITICAL - 2022-02-11 17:08:03 --> Argument 1 passed to App\Scripts\Script::getScript() must be of the type string, null given, called in /home2/dgmtools/codeigniter/app/Controllers/Script.php on line 43
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript(NULL, NULL)
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 20:22:14 --> Return value of App\Scripts\Script::getScript() must be an instance of App\Scripts\Script, none returned
+#0 /home2/dgmtools/codeigniter/app/Controllers/Script.php(43): App\Scripts\Script::getScript('scripts/Toyota/...', '024C024C024C024...')
+#1 /home2/dgmtools/codeigniter/system/CodeIgniter.php(824): App\Controllers\Script->run()
+#2 /home2/dgmtools/codeigniter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Script))
+#3 /home2/dgmtools/codeigniter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home2/dgmtools/public_html/flasheeprom.com/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
