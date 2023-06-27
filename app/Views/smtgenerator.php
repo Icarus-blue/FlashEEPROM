@@ -70,7 +70,6 @@ input {
     display: inline-block;
     width: 45px;
     height: 20px;
-    border: 1px solid red;
     /* border: 1px solid black; */
 }
 
@@ -85,8 +84,7 @@ input {
 .container_new {
     width: 300px;
     display: flex;
-    border: red 1px solid
-        /* justify-content: space-between; */
+    /* justify-content: space-between; */
 }
 
 p {
@@ -115,7 +113,7 @@ p {
         </div>
         <div class="col-10 developer-editor">
             <div class="row">
-                <div class="col-2 overflow-auto">
+                <div class="col-3" style="height:800px;overflow-y:scroll">
                     <div class="container_new">
                         <p>POSICION</p>
                         <p>Check <br>CKP</p>
@@ -127,11 +125,10 @@ p {
 
                     </ul>
                 </div>
-                <div class="col-10 overflow-auto">
-                    <div style="border:1px solid red" id="dynamicdiv">
+                <div class="col-9 overflow-auto" style="height:450px">
+                    <div id="dynamicdiv">
                         <p style="font-size:18px">CRAFICA</p>
                         <div id="interval" style="padding-left:40px">
-
                         </div>
                         <div class="label-div">
                             <div style="float:left;font-size:16px;width:50px;padding-top:30px">CKP</div>
@@ -158,12 +155,13 @@ p {
 
                             </div>
                         </div>
-                        <div style="margin-top:160px;margin-left:500px">
-                            <button style="font-size:14px;padding:5px" id="save"> Gurdar</button>
-                            <button style=" font-size:14px;padding:5px" id="txtdownload">Descargar</button>
-                        </div>
+                    </div>
+                    <div style="margin-top:60px;margin-left:500px">
+                        <button style="font-size:14px;padding:5px" id="save"> Gurdar</button>
+                        <button style=" font-size:14px;padding:5px" id="txtdownload">Descargar</button>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
@@ -225,24 +223,24 @@ p {
         const li = document.createElement("li");
         li.classList.add("list_style")
         if (j == 0) {
-            for (let i = 0; i < 40; i++) {
+            for (let i = 0; i < 800; i++) {
                 const label = document.createElement("label");
                 label.textContent = i + 1;
                 label.style.marginBottom = "3px";
                 li.appendChild(label)
             }
         } else {
-            for (let i = 0; i < 40; i++) {
+            for (let i = 0; i < 800; i++) {
                 const input = document.createElement("input");
+                if (i == 0) {
+                    input.disabled = true;
+                }
+
                 input.type = 'number';
                 input.classList.add("unclickedinput")
                 input.classList.add("hiddenelem")
                 input.min = 0;
                 input.max = 1;
-                // input.onchange = function() {
-                //     alert("thisisokay")
-                // }
-                // input.style.display = "none";
                 li.appendChild(input);
             }
         }
@@ -456,11 +454,11 @@ p {
 
     const myDiv = document.getElementById('interval'); // Select the div element by its ID dynamicdiv
     const dynamicdiv = document.getElementById('dynamicdiv');
-    for (let i = 0; i < 70; i++) {
+    for (let i = 0; i < 800; i++) {
         const box = document.createElement('div'); // Create a new div element
         box.classList.add('box_interval'); // Add the "box" class to the div element
         const p = document.createElement('p')
-        dynamicdiv.style.width = (70 * 45 + 150) + "px";
+        dynamicdiv.style.width = (800 * 45 + 150) + "px";
         p.textContent = i;
         box.appendChild(p);
         myDiv.appendChild(box); // Add the div element to the container element

@@ -22,23 +22,6 @@
                         data-bs-target="#dev-navigation" type="button" role="tab" aria-controls="dev-navigation"
                         aria-selected="true">Navegación</button>
                 </li>
-                <li class="nav-item hidden closeable-tab" id="dev-tab-title-_ID_" role="presentation">
-                    <button class="nav-link" id="dev-editor-tab-_ID_" data-bs-toggle="tab"
-                        data-bs-target="#dev-editor-_ID_" type="button" role="tab" aria-controls="dev-editor"
-                        aria-selected="true">{TITLE}</button>
-                    <button class="btn-close" id="btn-editor-close-_ID_" type="button" aria-label="Cerrar"></button>
-                </li>
-                <li class="nav-item hidden closeable-tab" id="dev-tab-title-image-_ID_" role="presentation">
-                    <button class="nav-link" id="dev-image-tab-_ID_" data-bs-toggle="tab"
-                        data-bs-target="#dev-image-_ID_" type="button" role="tab" aria-controls="dev-image"
-                        aria-selected="true">{TITLE}</button>
-                    <button class="btn-close" type="button" aria-label="Cerrar"></button>
-                </li>
-                <li class="nav-item hidden closeable-tab" id="dev-preview-tab" role="presentation">
-                    <button class="nav-link" id="dev-preview-tab-nav" data-bs-toggle="tab" data-bs-target="#dev-preview"
-                        type="button" role="tab" aria-controls="dev-preview" aria-selected="true">Vista Previa</button>
-                    <button class="btn-close hide-button" type="button" aria-label="Cerrar"></button>
-                </li>
             </ul>
             <div class="tab-content">
                 <div class="tab-pane fade show active developer-file-table" id="dev-navigation" role="tabpanel"
@@ -334,15 +317,15 @@
                 <div id="dev-navigation-sidebar" class="action-sidebar" style="display: block">
                     <div class="action-type" id="folder-type-initial">
                         <fieldset>
-                            <legend>Script</legend>
+                            <legend>Signal</legend>
                             <p><a href="javascript:void(0)" class="link-to-dev-folder">Ir a la carpeta de
                                     Desarrollos</a></p>
                         </fieldset>
-                        <fieldset>
-                            <legend>Imagen</legend>
+                        <!-- <fieldset>
+                            <legend>Image</legend>
                             <p><a href="javascript:void(0)" class="link-to-img-folder">Ir a la carpeta de Imágenes</a>
                             </p>
-                        </fieldset>
+                        </fieldset> -->
                     </div>
                     <div class="action-type" id="folder-type-1">
                         <form method="post" action="<?= base_url() ?>/developer/newFile_new">
@@ -350,22 +333,22 @@
                             <input type="hidden" class="current-folder" name="folderid">
                             <input type="hidden" class="opened-folders" name="opened">
                             <fieldset>
-                                <legend>Script</legend>
+                                <legend>Signal</legend>
                                 <p>
                                     <label>
-                                        Crear nuevo script:
+                                        Creat signal:
                                         <input type="text" name="name" class="new-script-name form-control" required>
                                     </label>
                                 </p>
                                 <p>
                                     <label>
-                                        Tipo de script:
+                                        Type of Signal:
                                         <select name="script_type" class="form-select" required>
-                                            <option value="0">Kilometraje
-                                            <option value="1">Inmobilizador
+                                            <option value="0">Hall
+                                            <option value="1">Inductive
                                         </select>
                                     </label>
-                                    <button type="submit">Crear</button>
+                                    <button type="submit">Create</button>
                                 </p>
                             </fieldset>
                         </form>
@@ -379,13 +362,13 @@
                             <input type="hidden" class="current-folder" name="folderid">
                             <input type="hidden" class="opened-folders" name="opened">
                             <fieldset>
-                                <legend>Carpeta</legend>
+                                <legend>Folder</legend>
                                 <p>
                                     <label>
-                                        Crear nueva carpeta:
+                                        Create Folder:
                                         <input type="text" name="name" class="new-folder-name form-control" required>
                                     </label>
-                                    <button type="submit" class="new-folder-submit">Crear</button>
+                                    <button type="submit" class="new-folder-submit">Create</button>
                                 </p>
                             </fieldset>
                         </form>
@@ -430,15 +413,11 @@
                     </div>
                     <div class="action-type" id="folder-type-3">
                         <fieldset>
-                            <legend>Script</legend>
+                            <legend>Signal</legend>
                             <p><a href="javascript:void(0)" class="link-to-dev-folder">Ir a la carpeta de
                                     Desarrollos</a></p>
                         </fieldset>
-                        <fieldset>
-                            <legend>Imagen</legend>
-                            <p><a href="javascript:void(0)" class="link-to-img-folder">Ir a la carpeta de Imágenes</a>
-                            </p>
-                        </fieldset>
+
                     </div>
                     <div class="action-type" id="folder-type-5">
                         <fieldset>

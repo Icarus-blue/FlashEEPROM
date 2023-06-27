@@ -18,7 +18,7 @@
             <?= isset($file->login) ? 'data-developer="' . esc($file->login) . '"' : '' ?>
             <?= isset($file->questions) ? 'data-questions="' . $file->questions . '"' : '' ?>
             <?= isset($file->script_type) ? 'data-script-type="' . $file->script_type . '"' : '' ?>
-            <?= isset($file->tokens) ? 'data-tokens="' . $file->tokens . '"' : '' ?>>
+            <?= isset($file->tokens) ? 'data-tokens="' . $file->tokens . '"' : '' ?> onclick="">
             <td>
                 <span class="<?= $file->isDirectory() ? 'folder' : ($file->isScript() ? 'file' : 'file') ?>">
                     <?= esc(pathinfo($file->name, PATHINFO_FILENAME)) ?>

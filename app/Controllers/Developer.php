@@ -60,6 +60,55 @@ class Developer extends BaseController
         ] + $this->getFileList_new([]));
     }
 
+    public function deleteFile_new()
+    {
+
+
+        if (!$this->isUserLoggedIn()) {
+            return $this->forbidden();
+        }
+
+        $file = $this->fileModel_new->getById($this->request->getPost('fileid'));
+        if (!$file || !$file->canBeRenamedOrDeleted($this->user->canManageTemplates())) {
+            return $this->pageNotFound();
+        }
+
+        if ($file->userid != $this->user->userid && (!$this->user->canManageTemplates() || !$file->is_template)) {
+            return $this->forbidden();
+        }
+
+        die(json_encode([
+            'success' => $this->fileModel_new->delete($file->developerfileid)
+        ] + $this->getFileList_new(explode(',', $this->request->getPost('opened')))));
+    }
+
+    public function renameFile_new()
+    {
+        if (!$this->isUserLoggedIn() ) {
+            return $this->forbidden();
+        }
+
+        $file = $this->fileModel_new->getById($this->request->getPost('fileid'));
+        if (!$file || !$file->canBeRenamedOrDeleted($this->user->canManageTemplates())) {
+            return $this->pageNotFound();
+        }
+
+        if ($file->userid != $this->user->userid && (!$this->user->canManageTemplates() || !$file->is_template)) {
+            return $this->forbidden();
+        }
+
+        $name = $this->request->getPost('name');
+        if (!$file->isDirectory()) {
+            $extension = pathinfo($file->name, PATHINFO_EXTENSION);
+            $name .= '.' . $extension;
+        }
+
+        die(json_encode([
+            'success' => $this->fileModel_new->renameFile($file, $name)
+        ] + $this->getFileList_new(explode(',', $this->request->getPost('opened')))));
+    }
+
+
     private function getScriptFolders_new()
     {
 
@@ -150,8 +199,14 @@ class Developer extends BaseController
             $template_get = WRITEPATH . 'developer/readonly.get.lua';
             $template_calc = WRITEPATH . 'developer/readonly.calc.lua';
         }
+        if ($type=="0") {
+            $prefix ='_hall';
+        } else {
+            $prefix ='_ind';
+        }
+
         $file = $this->fileModel_new->createFile(
-            $this->request->getPost('name') . '.smt',
+            $this->request->getPost('name') . $prefix. '.smt',
             $folder,
             $this->user,
             filesize($template_get) + filesize($template_calc),
