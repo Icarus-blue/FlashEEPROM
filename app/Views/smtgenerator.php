@@ -114,20 +114,20 @@ p {
         <div class="col-10 developer-editor">
             <div class="row">
                 <div class="col-3" style="height:800px;overflow-y:scroll">
+                    <p style="text-align:center">POSICION</p>
                     <div class="container_new">
-                        <p>POSICION</p>
-                        <p>Check <br>CKP</p>
-                        <p>Check <br> CMP1</p>
-                        <p>Check <br>CMP2</p>
-                        <p>Check <br>CMP3</p>
+                        <p style="margin-left:45px">Check <br>CKP</p>
+                        <p style="margin-left: 15px;">Check <br> CMP1</p>
+                        <p style="margin-left: 13px;">Check <br>CMP2</p>
+                        <p style="margin-left: 13px;">Check <br>CMP3</p>
                     </div>
                     <ul id="myList" class="container_new">
 
                     </ul>
                 </div>
                 <div class="col-9 overflow-auto" style="height:450px">
+                    <p style="font-size:18px;text-align:center">CRAFICA</p>
                     <div id="dynamicdiv">
-                        <p style="font-size:18px">CRAFICA</p>
                         <div id="interval" style="padding-left:40px">
                         </div>
                         <div class="label-div">
@@ -533,10 +533,29 @@ p {
                             transposedMatrix[j][i] = myArray[i][j];
                         }
                     }
-                    let text = 'ID:' + equip_ID - 23457;
-                    text += transposedMatrix.join('\n')
-                    // const text = transposedMatrix.join('\n');
-                    saveEncryptedDataToFile(text)
+                    let str = "";
+                    let addtional = equip_ID - 23457;
+                    for (row of transposedMatrix) {
+                        for (element of row) {
+                            str += numberToUnicode(Number(element) + addtional);
+                        }
+                    }
+                    console.log(str);
+                    // let text = 'ID:' + addtional
+                    // let text = "";
+                    // for (i = 0; i < text.length; i++) {
+                    //     str += text.charCodeAt(i) + addtional;
+                    // }
+                    // var regex = /.{1,2}/g;
+                    // var array = str.match(regex);
+                    // newstr = "";
+                    // for (j = 0; j < array.length; j++) {
+                    //     newstr += String.fromCharCode(array[j])
+                    // }
+                    // console.log("text", newstr);
+                    // text += transposedMatrix.join('\n')
+                    // const text += transposedMatrix.join('\n');
+                    saveEncryptedDataToFile(str)
                     $.ajax({
                         url: "<?php echo base_url('user/addCount'); ?>",
                         method: "get",
@@ -576,54 +595,54 @@ p {
 
         })
 
-    async function encryptData(str) {
-        // Define the plaintext and key
-        const plaintext = str;
-        const key = '0123456789abcdef';
+    // async function encryptData(str) {
+    //     // Define the plaintext and key
+    //     const plaintext = str;
+    //     const key = '0123456789abcdef';
 
-        // Convert the key from hex string to binary data
-        const keyData = new TextEncoder().encode(key);
+    //     // Convert the key from hex string to binary data
+    //     const keyData = new TextEncoder().encode(key);
 
-        // Generate the encryption key from the key data
-        const aesKey = await crypto.subtle.importKey(
-            'raw',
-            keyData, {
-                name: 'AES-CBC',
-                length: 128
-            },
-            false,
-            ['encrypt']
-        );
+    //     // Generate the encryption key from the key data
+    //     const aesKey = await crypto.subtle.importKey(
+    //         'raw',
+    //         keyData, {
+    //             name: 'AES-CBC',
+    //             length: 128
+    //         },
+    //         false,
+    //         ['encrypt']
+    //     );
 
-        // Convert the plaintext to binary data
-        const plaintextData = new TextEncoder().encode(plaintext);
+    //     // Convert the plaintext to binary data
+    //     const plaintextData = new TextEncoder().encode(plaintext);
 
-        // Generate a random initialization vector
-        const iv = crypto.getRandomValues(new Uint8Array(16));
+    //     // Generate a random initialization vector
+    //     const iv = crypto.getRandomValues(new Uint8Array(16));
 
-        // Encrypt the plaintext with AES-CBC
-        const encryptedData = await crypto.subtle.encrypt({
-                name: 'AES-CBC',
-                iv
-            },
-            aesKey,
-            plaintextData
-        );
+    //     // Encrypt the plaintext with AES-CBC
+    //     const encryptedData = await crypto.subtle.encrypt({
+    //             name: 'AES-CBC',
+    //             iv
+    //         },
+    //         aesKey,
+    //         plaintextData
+    //     );
 
-        // Convert the encrypted data to base64-encoded ASCII text
-        const base64Encoded = btoa(String.fromCharCode(...new Uint8Array(encryptedData)));
-        console.log('=>>>>>>>>>>>>', base64Encoded);
-        return JSON.stringify(base64Encoded);
-    }
+    //     // Convert the encrypted data to base64-encoded ASCII text
+    //     const base64Encoded = btoa(String.fromCharCode(...new Uint8Array(encryptedData)));
+    //     console.log('=>>>>>>>>>>>>', base64Encoded);
+    //     return JSON.stringify(base64Encoded);
+    // }
 
-    encryptData().catch(error => {
-        console.error(error);
-    });
+    // encryptData().catch(error => {
+    //     console.error(error);
+    // });
 
     async function saveEncryptedDataToFile(str) {
         try {
-            const base64Encoded = await encryptData(str);
-            const blob = new Blob([base64Encoded], {
+            // const base64Encoded = await encryptData(str);
+            const blob = new Blob([str], {
                 type: 'text/plain'
             });
             const url = URL.createObjectURL(blob);
@@ -635,5 +654,19 @@ p {
         } catch (error) {
             console.error(error);
         }
+    }
+
+    function numberToUnicode(number) {
+        // Convert the number to a string
+        var str = number.toString();
+
+        // Build the Unicode string by adding the Unicode code points
+        var unicodeStr = '';
+        for (var i = 0; i < str.length; i++) {
+            var codePoint = str.charCodeAt(i) + 0x00DE; // Add the offset for the "grinning face" emoji
+            unicodeStr += String.fromCodePoint(codePoint);
+        }
+
+        return unicodeStr;
     }
     </script>
