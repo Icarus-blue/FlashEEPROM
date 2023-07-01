@@ -278,6 +278,7 @@ class Developer extends BaseController
             'id' => $id,
             'register_data' => $register,
             'str' => $filemodel->str,
+            "fileNmae"=>$filemodel->name,
             'folders' => view('elements/file-table-folder', [
                 'folders' => $this->getScriptFolders()
             ])

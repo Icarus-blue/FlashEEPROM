@@ -169,6 +169,7 @@ p {
     <script>
     const is_register_ID = "<?php echo $registerkey; ?>";
     const developerfileid = "<?php echo $id; ?>";
+    const filename = "<?php echo $fileNmae?$fileNmae:""; ?>";
     const equip_ID = "<?php echo $register_data ? $register_data["equipID"] : null ?>";
     const status = "<?php echo $register_data ? $register_data["status"] : 0; ?>";
     const implusearr = "<?php echo ($str !== null && $str !== "") ? $str : 0 ?>";
@@ -514,13 +515,20 @@ p {
                     const myUl = document.getElementById("myList");
                     const mylist = myUl.querySelectorAll('li');
                     let myArray = [];
-                    for (let i = 1; i < mylist.length; i++) {
+                    for (let i = 0; i < mylist.length; i++) {
                         const element = mylist[i].querySelectorAll('input');
                         let subarr = []
-                        for (let j = 0; j < index; j++) {
-                            const ele = element[j].value;
-                            subarr.push(ele)
+                        if (i == 0) {
+                            for (let j = 0; j < index; j++) {
+                                subarr.push('0')
+                            }
+                        } else {
+                            for (let j = 0; j < index; j++) {
+                                const ele = element[j].value;
+                                subarr.push(ele)
+                            }
                         }
+
                         myArray.push(subarr)
                     }
                     const transposedMatrix = [];
@@ -533,29 +541,20 @@ p {
                             transposedMatrix[j][i] = myArray[i][j];
                         }
                     }
-                    let str = "";
-                    let addtional = equip_ID - 23457;
-                    for (row of transposedMatrix) {
-                        for (element of row) {
-                            str += numberToUnicode(Number(element) + addtional);
-                        }
+                    let str = "ID: " + "005101000015" + "\n";
+                    str += transposedMatrix.map(function(row) {
+                        return row.join(',');
+                    }).join('\n');
+                    let sumar = Number(5101000015) - 23457;
+                    let newstr = ""
+                    var encoder = new TextEncoder("iso-8859-1");
+                    var decoder = new TextDecoder("iso-8859-1")
+                    var encoded = encoder.encode(str)
+                    for (var i = 0; i < encoded.length; i++) {
+                        encoded[i] += sumar;
                     }
-                    console.log(str);
-                    // let text = 'ID:' + addtional
-                    // let text = "";
-                    // for (i = 0; i < text.length; i++) {
-                    //     str += text.charCodeAt(i) + addtional;
-                    // }
-                    // var regex = /.{1,2}/g;
-                    // var array = str.match(regex);
-                    // newstr = "";
-                    // for (j = 0; j < array.length; j++) {
-                    //     newstr += String.fromCharCode(array[j])
-                    // }
-                    // console.log("text", newstr);
-                    // text += transposedMatrix.join('\n')
-                    // const text += transposedMatrix.join('\n');
-                    saveEncryptedDataToFile(str)
+                    newstr = decoder.decode(encoded)
+                    saveEncryptedDataToFile(newstr)
                     $.ajax({
                         url: "<?php echo base_url('user/addCount'); ?>",
                         method: "get",
@@ -592,52 +591,10 @@ p {
                     }
                 })
             }
-
         })
 
-    // async function encryptData(str) {
-    //     // Define the plaintext and key
-    //     const plaintext = str;
-    //     const key = '0123456789abcdef';
 
-    //     // Convert the key from hex string to binary data
-    //     const keyData = new TextEncoder().encode(key);
 
-    //     // Generate the encryption key from the key data
-    //     const aesKey = await crypto.subtle.importKey(
-    //         'raw',
-    //         keyData, {
-    //             name: 'AES-CBC',
-    //             length: 128
-    //         },
-    //         false,
-    //         ['encrypt']
-    //     );
-
-    //     // Convert the plaintext to binary data
-    //     const plaintextData = new TextEncoder().encode(plaintext);
-
-    //     // Generate a random initialization vector
-    //     const iv = crypto.getRandomValues(new Uint8Array(16));
-
-    //     // Encrypt the plaintext with AES-CBC
-    //     const encryptedData = await crypto.subtle.encrypt({
-    //             name: 'AES-CBC',
-    //             iv
-    //         },
-    //         aesKey,
-    //         plaintextData
-    //     );
-
-    //     // Convert the encrypted data to base64-encoded ASCII text
-    //     const base64Encoded = btoa(String.fromCharCode(...new Uint8Array(encryptedData)));
-    //     console.log('=>>>>>>>>>>>>', base64Encoded);
-    //     return JSON.stringify(base64Encoded);
-    // }
-
-    // encryptData().catch(error => {
-    //     console.error(error);
-    // });
 
     async function saveEncryptedDataToFile(str) {
         try {
@@ -648,7 +605,7 @@ p {
             const url = URL.createObjectURL(blob);
             const link = document.createElement('a');
             link.setAttribute('href', url);
-            link.setAttribute('download', equip_ID + '.smt');
+            link.setAttribute('download', filename);
             link.click();
             URL.revokeObjectURL(url);
         } catch (error) {
@@ -668,5 +625,47 @@ p {
         }
 
         return unicodeStr;
+    }
+
+    const writeSting = (str) => {
+        // Request permission to use the file system
+        window.requestFileSystem = window.requestFileSystem || window.webkitRequestFileSystem;
+        window.requestFileSystem(window.TEMPORARY, 1024 * 1024, function(fs) {
+
+            // Create a new file with the specified name
+            fs.root.getFile('example.txt', {
+                create: true
+            }, function(fileEntry) {
+
+                // Create a FileWriter object for the file
+                fileEntry.createWriter(function(writer) {
+
+                    // Write the string to the file
+                    var stringToWrite = str;
+                    var blob = new Blob([stringToWrite], {
+                        type: 'text/plain'
+                    });
+                    writer.write(blob);
+
+                    // Close the file and save the changes
+                    writer.onwriteend = function() {
+                        console.log('File written successfully!');
+                    };
+                    writer.onerror = function(e) {
+                        console.log('Error writing file: ' + e.toString());
+                    };
+                    writer.close();
+
+                }, function(e) {
+                    console.log('Error creating writer: ' + e.toString());
+                });
+
+            }, function(e) {
+                console.log('Error creating file: ' + e.toString());
+            });
+
+        }, function(e) {
+            console.log('Error requesting file system: ' + e.toString());
+        });
     }
     </script>
